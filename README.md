@@ -1,7 +1,7 @@
 # Oathwise website
 
 The public website of the Oathwise app, served by GitHub Pages at
-https://faizdev94-debug.github.io/oathwise/
+https://oathwise.topjow.org/ (custom domain; see `CNAME`)
 
 * `/` — about the app
 * `/privacy/` — Privacy Policy (for Google Play and the App Store)
