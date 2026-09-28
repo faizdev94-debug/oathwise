@@ -1,0 +1,21 @@
+{
+  "updated": "2026-09-27",
+  "alerts": [
+    {
+      "id": "elections-2026",
+      "from": "2026-10-01",
+      "until": "2027-02-28",
+      "style": "warning",
+      "text": "The elections on November 3, 2026 may change the answers about your U.S. senators, U.S. representative, governor and the Speaker of the House. The new Congress begins on January 3, 2027. At your interview, answer with the officials serving on that day.",
+      "url": "https://www.uscis.gov/citizenship/testupdates"
+    },
+    {
+      "id": "fee-proposal-2026",
+      "from": "2026-06-23",
+      "until": "2026-12-31",
+      "style": "info",
+      "text": "DHS has proposed higher Form N-400 fees and an end to fee waivers and reduced fees for Form N-400. The proposal is not final: the current fees still apply.",
+      "article": "fees"
+    }
+  ]
+}

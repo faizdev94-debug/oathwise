@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "files": {
+    "data/officials.json": {
+      "version": "2026-09-28T14:53:18Z"
+    },
+    "data/alerts.json": {
+      "version": "2026-09-28T14:53:18Z"
+    },
+    "data/guide.json": {
+      "version": "2026-09-28T14:53:18Z"
+    },
+    "i18n/fa/alerts.json": {
+      "version": "2026-09-28T14:53:18Z"
+    },
+    "i18n/fa/guide.json": {
+      "version": "2026-09-28T14:53:18Z"
+    },
+    "i18n/ar/alerts.json": {
+      "version": "2026-09-28T14:53:18Z"
+    },
+    "i18n/ar/guide.json": {
+      "version": "2026-09-28T14:53:18Z"
+    },
+    "i18n/es/alerts.json": {
+      "version": "2026-09-28T14:53:18Z"
+    },
+    "i18n/es/guide.json": {
+      "version": "2026-09-28T14:53:18Z"
+    },
+    "i18n/vi/alerts.json": {
+      "version": "2026-09-28T14:53:18Z"
+    },
+    "i18n/vi/guide.json": {
+      "version": "2026-09-28T14:53:18Z"
+    },
+    "i18n/ps/alerts.json": {
+      "version": "2026-09-28T14:53:18Z"
+    },
+    "i18n/ps/guide.json": {
+      "version": "2026-09-28T14:53:18Z"
+    }
+  }
+}

@@ -1,0 +1,465 @@
+{
+  "articles": [
+    {
+      "id": "overview",
+      "title": "Su camino a la ciudadanía estadounidense",
+      "summary": "Qué es la naturalización y cómo funciona todo el proceso, en una página.",
+      "blocks": [
+        {"type": "p", "text": "La naturalización es el proceso por el cual un residente permanente legal (titular de tarjeta verde) se hace ciudadano de EE. UU. Se solicita con el Formulario N-400, Solicitud de Naturalización, que se presenta al Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS)."},
+        {"type": "h", "text": "El proceso de un vistazo"},
+        {"type": "steps", "items": [
+          {"title": "Revise su elegibilidad", "text": "La mayoría de las personas necesita 5 años como residente permanente (3 años si está casado con un ciudadano de EE. UU. y vive con él)."},
+          {"title": "Presente el Formulario N-400", "text": "Preséntelo por internet o por correo y pague la tarifa. Recibirá una notificación de recibo."},
+          {"title": "Datos biométricos", "text": "Es posible que USCIS le dé una cita para tomar sus huellas digitales, su foto y su firma."},
+          {"title": "Entrevista y exámenes", "text": "Un oficial revisa su solicitud y le hace el examen de inglés (hablar, leer y escribir) y el examen de educación cívica."},
+          {"title": "Decisión", "text": "Su solicitud se aprueba, se continúa (se necesitan más pruebas o repetir un examen) o se niega."},
+          {"title": "Ceremonia de juramentación", "text": "Presta el Juramento de Lealtad y recibe su Certificado de Naturalización. Ya es ciudadano de EE. UU."}
+        ]},
+        {"type": "h", "text": "Cómo le ayuda esta app"},
+        {"type": "list", "items": [
+          "Estudie todas las preguntas oficiales de educación cívica (versiones 2025 y 2008) con respuestas, explicaciones y traducciones.",
+          "Haga exámenes de práctica realistas que siguen las reglas oficiales (por ejemplo, 20 preguntas y 12 respuestas correctas para aprobar el examen 2025).",
+          "Practique los exámenes de lectura y escritura en inglés con el vocabulario oficial de USCIS.",
+          "Prepárese para las preguntas de la entrevista y las palabras difíciles del N-400.",
+          "Conozca el proceso: elegibilidad, tarifas, documentos, la entrevista y la ceremonia de juramentación."
+        ]},
+        {"type": "note", "style": "info", "text": "La entrevista y los exámenes de naturalización son en inglés. Esta app siempre muestra el texto oficial en inglés, y la traducción está para ayudarle a entenderlo."}
+      ]
+    },
+    {
+      "id": "eligibility",
+      "title": "Quién puede presentar la solicitud (elegibilidad)",
+      "summary": "Requisitos generales, la regla de 3 años para cónyuges de ciudadanos de EE. UU. y la presentación anticipada.",
+      "blocks": [
+        {"type": "tool", "tool": "eligibility", "text": "Use la calculadora de elegibilidad para saber su fecha más próxima de presentación."},
+        {"type": "h", "text": "Requisitos generales (regla de 5 años)"},
+        {"type": "list", "items": [
+          "Tiene al menos 18 años cuando presenta la solicitud.",
+          "Ha sido residente permanente legal (titular de tarjeta verde) durante al menos 5 años.",
+          "Residencia continua: vivió en EE. UU. como residente permanente durante los 5 años justo antes de presentar la solicitud, sin viajes largos al extranjero.",
+          "Presencia física: estuvo físicamente en EE. UU. al menos 30 meses (913 días) de esos 5 años.",
+          "Vivió al menos 3 meses en el estado o distrito de USCIS donde presenta la solicitud.",
+          "Vive de forma continua en EE. UU. desde la fecha en que presenta la solicitud hasta que se hace ciudadano.",
+          "Puede leer, escribir y hablar inglés básico y conoce la historia y el gobierno de EE. UU. (educación cívica), salvo que aplique una excepción.",
+          "Tiene buen carácter moral y está adherido a los principios de la Constitución de EE. UU."
+        ]},
+        {"type": "h", "text": "Cónyuges de ciudadanos de EE. UU. (regla de 3 años)"},
+        {"type": "list", "items": [
+          "Ha sido residente permanente durante al menos 3 años.",
+          "Ha estado casado y ha vivido con el mismo cónyuge ciudadano de EE. UU. durante los últimos 3 años, y su cónyuge ha sido ciudadano durante todo ese tiempo.",
+          "Residencia continua durante 3 años y presencia física de al menos 18 meses (548 días).",
+          "También se aplican todos los demás requisitos (edad, 3 meses en el estado o distrito, inglés, educación cívica, buen carácter moral)."
+        ]},
+        {"type": "h", "text": "Viajes fuera de los Estados Unidos"},
+        {"type": "list", "items": [
+          "Un viaje de más de 6 meses pero de menos de 1 año puede interrumpir su residencia continua. Puede presentar pruebas de que mantuvo lazos fuertes con EE. UU. (trabajo, casa, impuestos, familia).",
+          "Un viaje de 1 año o más normalmente interrumpe la residencia continua.",
+          "Los viajes cortos no interrumpen la residencia continua, pero cada día fuera de EE. UU. cuenta en contra de la presencia física."
+        ]},
+        {"type": "tool", "tool": "trips", "text": "Cuente sus días en el extranjero con la calculadora de viajes"},
+        {"type": "h", "text": "Presentación anticipada"},
+        {"type": "p", "text": "Puede presentar la solicitud hasta 90 días antes de cumplir el requisito de residencia permanente de 5 años (o de 3 años). Todos los demás requisitos, como los 3 meses en su estado o distrito, deben cumplirse ya el día en que la presenta."},
+        {"type": "h", "text": "Otras vías"},
+        {"type": "list", "items": [
+          "Los miembros de las fuerzas armadas y los veteranos pueden calificar con reglas especiales (INA 328 y 329), a veces sin requisito de residencia y sin pagar tarifa.",
+          "Los menores de 18 años que son residentes permanentes y viven con un padre o una madre ciudadanos de EE. UU. pueden ser ya ciudadanos de forma automática. Usan el Formulario N-600 para obtener un Certificado de Ciudadanía, no el Formulario N-400."
+        ]},
+        {"type": "note", "style": "warning", "text": "Si alguna vez lo arrestaron, pasó largos períodos en el extranjero, tiene un asunto migratorio pendiente o no está seguro, hable con un abogado de inmigración o con un representante acreditado por el Departamento de Justicia antes de presentar la solicitud."}
+      ]
+    },
+    {
+      "id": "moral_character",
+      "title": "Buen carácter moral",
+      "summary": "Qué revisa USCIS y qué puede causar problemas: arrestos, impuestos, manutención de hijos, voto, multas de tránsito y Servicio Selectivo.",
+      "blocks": [
+        {"type": "p", "text": "Debe demostrar buen carácter moral durante los 5 años antes de presentar la solicitud (3 años si la presenta como cónyuge de un ciudadano de EE. UU.) y hasta que preste el Juramento. USCIS también tiene en cuenta sus aportes positivos, como el trabajo, el pago de impuestos y el cuidado de su familia."},
+        {"type": "h", "text": "Cosas que pueden causar problemas"},
+        {"type": "list", "items": [
+          "Arrestos, multas y delitos en cualquier parte del mundo. Informe todos en el Formulario N-400, aunque el caso se haya desestimado o eliminado, o haya ocurrido antes de que usted cumpliera 18 años.",
+          "Estar en libertad condicional, en libertad bajo palabra o con una sentencia suspendida. USCIS no aprobará su solicitud hasta que termine.",
+          "No presentar declaraciones de impuestos o deber impuestos. Si debe impuestos, muestre un acuerdo con la oficina de impuestos y prueba de que paga según lo acordado.",
+          "No mantener a sus hijos que viven aparte, o no pagar la manutención ordenada por un tribunal.",
+          "Afirmar ser ciudadano de EE. UU., o inscribirse para votar o votar cuando no tenía derecho.",
+          "Dar información falsa para obtener un beneficio migratorio, o mentirle a un oficial."
+        ]},
+        {"type": "h", "text": "Multas de tránsito"},
+        {"type": "p", "text": "No necesita enviar documentos por un incidente de tránsito a menos que hubiera alcohol o drogas, terminara en arresto o alguien resultara gravemente herido. Aun así, responda cada pregunta con la verdad."},
+        {"type": "h", "text": "Servicio Selectivo (hombres)"},
+        {"type": "list", "items": [
+          "Casi todos los hombres que viven en los Estados Unidos, incluidos los residentes permanentes, deben inscribirse en el Servicio Selectivo entre los 18 y los 26 años.",
+          "Menores de 26 años: inscríbase antes de presentar la solicitud.",
+          "De 26 a 31 años (de 26 a 29 si la presenta como cónyuge de un ciudadano de EE. UU.) y no se inscribió: explique por qué en su solicitud y envíe una carta de información de estatus (Status Information Letter) del Servicio Selectivo.",
+          "31 años o más (29 años o más para cónyuges de ciudadanos de EE. UU.): no necesita explicarlo ni enviar la carta."
+        ]},
+        {"type": "tool", "tool": "n400", "text": "Practique todas las preguntas de sí/no del Formulario N-400, Parte 9"},
+        {"type": "note", "style": "warning", "text": "Algunos delitos impiden para siempre la naturalización, y algunos pueden llevar a la expulsión de los Estados Unidos. Si alguna vez lo arrestaron, lo acusaron o lo condenaron, hable con un abogado de inmigración o con un representante acreditado por el Departamento de Justicia antes de presentar la solicitud."}
+      ]
+    },
+    {
+      "id": "steps",
+      "title": "10 pasos hacia la naturalización",
+      "summary": "Los pasos oficiales de USCIS, desde revisar su elegibilidad hasta recibir su Certificado de Naturalización.",
+      "blocks": [
+        {"type": "steps", "items": [
+          {"title": "1. Averigüe si ya es ciudadano de EE. UU.", "text": "Algunas personas se hicieron ciudadanas automáticamente al nacer o por medio de sus padres. Si es su caso, no necesita el Formulario N-400."},
+          {"title": "2. Averigüe si es elegible", "text": "Revise los requisitos de edad, residencia permanente, residencia continua, presencia física y buen carácter moral."},
+          {"title": "3. Prepare el Formulario N-400", "text": "Complete la solicitud y reúna sus documentos. Solo necesita fotos si vive fuera de los Estados Unidos."},
+          {"title": "4. Presente el Formulario N-400 y pague la tarifa", "text": "Preséntelo por internet en una cuenta de USCIS o por correo. USCIS le envía una notificación de recibo y puede consultar el estado de su caso por internet."},
+          {"title": "5. Vaya a su cita de datos biométricos, si se la programan", "text": "USCIS le envía una notificación con la fecha, la hora y el lugar. Le toman las huellas digitales, la foto y la firma."},
+          {"title": "6. Complete la entrevista", "text": "Vaya a la oficina de USCIS a la hora programada. El oficial revisa su solicitud y le hace los exámenes de inglés y de educación cívica."},
+          {"title": "7. Reciba una decisión", "text": "Aprobada, continuada (se necesitan más pruebas u otro examen) o negada."},
+          {"title": "8. Reciba una notificación para prestar el Juramento de Lealtad", "text": "A veces la ceremonia es el mismo día de la entrevista. Si no, USCIS le envía por correo una notificación (Formulario N-445) con la fecha."},
+          {"title": "9. Preste el Juramento de Lealtad", "text": "Regístrese, entregue su tarjeta verde, responda las preguntas del Formulario N-445, preste el Juramento y reciba su Certificado de Naturalización."},
+          {"title": "10. Entienda la ciudadanía estadounidense", "text": "Conozca sus nuevos derechos y responsabilidades, como votar y servir como jurado."}
+        ]}
+      ]
+    },
+    {
+      "id": "fees",
+      "title": "Tarifas y pago",
+      "summary": "Tarifas actuales del N-400, tarifa reducida, exención de tarifa y formas de pago aceptadas.",
+      "blocks": [
+        {"type": "h", "text": "Tarifas actuales del Formulario N-400"},
+        {"type": "list", "items": [
+          "Presentación por internet: $710",
+          "Presentación en papel: $760",
+          "Tarifa reducida: $380, si el ingreso de su hogar es igual o menor al 400% de las Pautas Federales de Pobreza (pídala en el N-400 en papel con prueba de ingresos).",
+          "Exención de tarifa: $0, si califica (por ejemplo, ingresos iguales o menores al 150% de las Pautas Federales de Pobreza, beneficios basados en los ingresos o dificultades económicas). Use el Formulario I-912.",
+          "La mayoría de los solicitantes que presentan con base en el servicio militar no pagan tarifa."
+        ]},
+        {"type": "p", "text": "La tarifa de datos biométricos está incluida en la tarifa del N-400. Las solicitudes de tarifa reducida y de exención no se pueden presentar por internet; deben presentarse en papel."},
+        {"type": "h", "text": "Cómo pagar"},
+        {"type": "list", "items": [
+          "Presentación por internet: pague en su cuenta de USCIS.",
+          "Presentación en papel: pague con tarjeta de crédito, débito o prepagada usando el Formulario G-1450, o directamente desde una cuenta bancaria de EE. UU. usando el Formulario G-1650 (ACH).",
+          "Desde el 28 de octubre de 2025, USCIS ya no acepta cheques personales, giros postales ni cheques de caja para las solicitudes en papel, salvo que califique para una excepción (Formulario G-1651)."
+        ]},
+        {"type": "note", "style": "warning", "text": "Aumento de tarifa propuesto: el 23 de junio de 2026, el DHS propuso subir la tarifa del N-400 a $1,330 (en papel) y $1,280 (por internet) y eliminar las exenciones y las tarifas reducidas del Formulario N-400. El período de comentarios cerró el 24 de agosto de 2026. Es una propuesta, no una regla definitiva. Las tarifas actuales siguen vigentes hasta que entre en vigor una regla definitiva. Revise siempre la tarifa en uscis.gov antes de presentar la solicitud."},
+        {"type": "link", "text": "Calculadora de tarifas de USCIS", "url": "https://www.uscis.gov/feecalculator"}
+      ]
+    },
+    {
+      "id": "documents",
+      "title": "Lista de documentos",
+      "summary": "Qué enviar con el Formulario N-400 y qué llevar a su entrevista. Marque cada punto a medida que avanza.",
+      "blocks": [
+        {"type": "h", "text": "Para todos"},
+        {"type": "checklist", "items": [
+          {"id": "doc_gc", "text": "Copia de ambos lados de su tarjeta verde (Tarjeta de Residente Permanente). Si la perdió, copia del recibo de su Formulario I-90."},
+          {"id": "doc_fee", "text": "Tarifa de presentación (tarjeta con el Formulario G-1450 o cuenta bancaria con el Formulario G-1650), o una solicitud de exención o de tarifa reducida."},
+          {"id": "doc_photos", "text": "Dos fotos tipo pasaporte, solo si vive fuera de los Estados Unidos."},
+          {"id": "doc_trips", "text": "Una lista de todos sus viajes fuera de EE. UU. en los últimos 5 años (fechas y países)."},
+          {"id": "doc_addresses", "text": "Sus direcciones y empleadores (o escuelas) de los últimos 5 años."}
+        ]},
+        {"type": "h", "text": "Si le corresponde"},
+        {"type": "checklist", "items": [
+          {"id": "doc_g28", "text": "Formulario G-28, si le ayuda un abogado o un representante acreditado."},
+          {"id": "doc_namechange", "text": "Documentos que cambiaron legalmente su nombre (acta de matrimonio, sentencia de divorcio u orden judicial)."},
+          {"id": "doc_spouse_citizen", "text": "Casado con un ciudadano de EE. UU. (regla de 3 años): prueba de que su cónyuge es ciudadano desde hace 3 años (acta de nacimiento, certificado de naturalización, certificado de ciudadanía, pasaporte o FS-240)."},
+          {"id": "doc_marriage", "text": "Su acta de matrimonio actual y prueba de que terminaron todos los matrimonios anteriores (los suyos y los de su cónyuge)."},
+          {"id": "doc_joint", "text": "Prueba de su vida en común como matrimonio: declaraciones de impuestos conjuntas, cuentas bancarias, contrato de alquiler o hipoteca, actas de nacimiento de los hijos o transcripciones de impuestos del IRS de los últimos 3 años."},
+          {"id": "doc_longtrip", "text": "Cualquier viaje de 6 meses o más: prueba de que mantuvo sus lazos con EE. UU. (transcripciones de impuestos del IRS, talones de pago, pagos de alquiler o hipoteca)."},
+          {"id": "doc_support", "text": "Hijos o cónyuge que no viven con usted: órdenes judiciales de manutención y prueba de que las pagó."},
+          {"id": "doc_arrest", "text": "Cualquier arresto, multa o detención: registros judiciales certificados y la resolución final de cada incidente, y prueba de que cumplió cualquier sentencia."},
+          {"id": "doc_taxes", "text": "Impuestos atrasados: un acuerdo firmado con el IRS o la oficina estatal de impuestos y prueba del estado de su plan de pago."},
+          {"id": "doc_n648", "text": "Excepción por discapacidad: el Formulario N-648 original completado por un médico con licencia o un psicólogo clínico."},
+          {"id": "doc_sss", "text": "Hombres que no se inscribieron en el Servicio Selectivo entre los 18 y los 26 años: una carta de información de estatus del Servicio Selectivo."},
+          {"id": "doc_military", "text": "Solicitudes basadas en el servicio militar: Formulario N-426, Solicitud de Certificación de Servicio Militar o Naval."}
+        ]},
+        {"type": "h", "text": "Lleve a su entrevista"},
+        {"type": "checklist", "items": [
+          {"id": "int_notice", "text": "Su notificación de cita para la entrevista."},
+          {"id": "int_gc", "text": "Su tarjeta verde original."},
+          {"id": "int_id", "text": "Una identificación emitida por el estado o una licencia de conducir."},
+          {"id": "int_passports", "text": "Todos los pasaportes y documentos de viaje vigentes y vencidos que usó desde que se hizo residente permanente."},
+          {"id": "int_originals", "text": "Los documentos originales de cada copia que envió, y cualquier documento que pida la notificación."}
+        ]},
+        {"type": "note", "style": "info", "text": "Envíe copias, salvo que USCIS pida los originales. Los documentos en otro idioma necesitan una traducción completa al inglés con la certificación del traductor."}
+      ]
+    },
+    {
+      "id": "notices",
+      "title": "Cartas y notificaciones de USCIS",
+      "summary": "Qué significa cada notificación y qué hacer: recibo, datos biométricos, entrevista, resultados y ceremonia de juramentación.",
+      "blocks": [
+        {"type": "p", "text": "USCIS envía la mayoría de las notificaciones por correo y también las muestra en su cuenta de USCIS. Lea cada notificación con atención y guárdelas todas."},
+        {"type": "h", "text": "Formulario I-797C, Notificación de Acción"},
+        {"type": "list", "items": [
+          "Notificación de recibo: confirma que USCIS recibió su Formulario N-400 y la tarifa. Muestra su número de recibo (3 letras y 10 dígitos). Úselo para consultar el estado de su caso por internet. Junto con su tarjeta verde, también extiende por 24 meses una tarjeta a punto de vencer.",
+          "Notificación de cita de datos biométricos: la fecha, la hora y el lugar (un Centro de Apoyo a Solicitantes) para dar sus huellas digitales, su foto y su firma. Lleve la notificación y su tarjeta verde. USCIS puede reutilizar huellas que usted ya dio; en ese caso quizá no reciba esta cita.",
+          "Notificación de cita para la entrevista: la fecha, la hora y la oficina local de USCIS de su entrevista, y los documentos que debe llevar. Llegue temprano."
+        ]},
+        {"type": "note", "style": "warning", "text": "Si no puede ir a una cita, siga las instrucciones de la notificación para cambiarla. Si falta a su entrevista y no se comunica con USCIS en 30 días, USCIS puede cerrar su solicitud. Puede pedir que la reabran dentro de un año."},
+        {"type": "h", "text": "Formulario N-14, Solicitud de Evidencia"},
+        {"type": "p", "text": "USCIS necesita más documentos o información para decidir. Envíe exactamente lo que le piden antes de la fecha límite: normalmente 30 días (más 3 días si la solicitud llegó por correo)."},
+        {"type": "h", "text": "Formulario N-652, Aviso de Resultados del Examen"},
+        {"type": "list", "items": [
+          "El oficial le da este papel al final de su entrevista. Muestra si aprobó los exámenes de inglés y de educación cívica.",
+          "Aprobada: USCIS aprueba su solicitud. Puede prestar el Juramento el mismo día o recibir un Formulario N-445 por correo.",
+          "Continuada: USCIS necesita más documentos, o usted debe repetir la parte del examen que no aprobó. El nuevo examen es de 60 a 90 días después de la primera entrevista.",
+          "Negada: USCIS explica los motivos en una decisión por escrito."
+        ]},
+        {"type": "h", "text": "Formulario N-445, Aviso de Ceremonia de Juramento de Naturalización"},
+        {"type": "p", "text": "La fecha, la hora y el lugar de su ceremonia de juramentación. Responda las preguntas de la notificación sobre lo que pasó desde su entrevista (por ejemplo, viajes, arrestos o matrimonio) y llévela con su tarjeta verde. Si no puede asistir, siga las instrucciones de la notificación."},
+        {"type": "h", "text": "Si niegan su solicitud"},
+        {"type": "p", "text": "Puede pedir una audiencia con un oficial de inmigración con el Formulario N-336 dentro de los 30 días después de recibir la decisión (33 días si llegó por correo). Hable con un abogado de inmigración o con un representante acreditado."},
+        {"type": "note", "style": "warning", "text": "Cuidado con las estafas. USCIS no le pedirá pagar por teléfono, correo electrónico, tarjetas de regalo ni transferencias de dinero. Verifique cualquier notificación en su cuenta de USCIS o con el Centro de Contacto de USCIS."}
+      ]
+    },
+    {
+      "id": "pending",
+      "title": "Mientras su solicitud está pendiente",
+      "summary": "Mudanzas, una tarjeta verde que vence, viajes, un nombre nuevo y qué hacer si su caso tarda mucho.",
+      "blocks": [
+        {"type": "p", "text": "Después de presentar la solicitud, USCIS le envía una notificación de recibo. Guárdela con su tarjeta verde y use el número de recibo para consultar el estado de su caso por internet. El tiempo del proceso depende de su oficina local de USCIS."},
+        {"type": "link", "text": "Tiempos de procesamiento de USCIS", "url": "https://egov.uscis.gov/processing-times/"},
+        {"type": "h", "text": "Si se muda"},
+        {"type": "list", "items": [
+          "Informe su nueva dirección a USCIS dentro de los 10 días después de mudarse. Use su cuenta de USCIS (también si presentó en papel) o el Formulario AR-11.",
+          "Cambiar su dirección con el Servicio Postal de EE. UU. no la cambia con USCIS, y el Servicio Postal no reenvía el correo de USCIS.",
+          "Si se muda a otro estado o zona, su caso puede pasar a otra oficina de USCIS, lo que puede tardar más."
+        ]},
+        {"type": "link", "text": "Cambie su dirección con USCIS", "url": "https://www.uscis.gov/addresschange"},
+        {"type": "h", "text": "Si su tarjeta verde vence"},
+        {"type": "p", "text": "Si presentó el Formulario N-400 el 12 de diciembre de 2022 o después, su notificación de recibo extiende su tarjeta verde por 24 meses desde la fecha de la tarjeta. Lleve la notificación con su tarjeta. En la mayoría de los casos no necesita presentar el Formulario I-90."},
+        {"type": "h", "text": "Viajes"},
+        {"type": "list", "items": [
+          "Puede viajar, pero regrese a tiempo para su cita de datos biométricos, su entrevista y su ceremonia de juramentación. Faltar a ellas puede retrasar o cerrar su caso.",
+          "Mantenga su hogar en los Estados Unidos. Debe vivir aquí de forma continua desde el día en que presenta la solicitud hasta que preste el Juramento, y los viajes largos pueden interrumpir su residencia continua.",
+          "Informe al oficial de cada viaje que hizo después de presentar la solicitud."
+        ]},
+        {"type": "h", "text": "Mantenga su solicitud al día"},
+        {"type": "list", "items": [
+          "Si cambia legalmente su nombre, envíe los documentos a USCIS y llévelos a su entrevista. También puede pedir el cambio de nombre como parte de la naturalización.",
+          "En la entrevista, informe al oficial de todo lo que cambió después de presentar la solicitud: dirección, trabajo, matrimonio o divorcio, viajes, arrestos o multas.",
+          "Siga presentando sus declaraciones de impuestos y pagando la manutención de hijos. El buen carácter moral cuenta hasta el Juramento."
+        ]},
+        {"type": "h", "text": "Si su caso tarda más de lo normal"},
+        {"type": "p", "text": "Si su caso está fuera del tiempo normal de procesamiento, envíe una consulta por internet o llame al Centro de Contacto de USCIS al 800-375-5283. Solo puede pedir que aceleren un caso en situaciones urgentes, como una pérdida económica grave o un motivo humanitario urgente."},
+        {"type": "tool", "tool": "case", "text": "Guarde las fechas de su caso y vea la cuenta regresiva en Mi caso"},
+        {"type": "note", "style": "warning", "text": "Nadie puede hacer que USCIS decida más rápido a cambio de dinero. Tenga cuidado con quien le prometa acelerar su caso."}
+      ]
+    },
+    {
+      "id": "interview",
+      "title": "La entrevista de naturalización",
+      "summary": "Qué pasa el día de la entrevista y cómo prepararse.",
+      "blocks": [
+        {"type": "h", "text": "Qué pasa"},
+        {"type": "steps", "items": [
+          {"title": "Llegue temprano y regístrese", "text": "Lleve su notificación de cita, su tarjeta verde, su identificación y sus pasaportes. Hay un control de seguridad."},
+          {"title": "Preste juramento de decir la verdad", "text": "El oficial le pide ponerse de pie, levantar la mano derecha y prometer decir la verdad."},
+          {"title": "Revisión de su N-400", "text": "El oficial le pregunta sobre su solicitud: su nombre, direcciones, trabajo, viajes, familia y las preguntas de sí/no. Sus respuestas también cuentan como el examen de expresión oral en inglés."},
+          {"title": "Exámenes de lectura y escritura", "text": "Lee en voz alta una de hasta tres oraciones y escribe una de hasta tres oraciones que el oficial le dicta."},
+          {"title": "Examen de educación cívica", "text": "El oficial le hace preguntas de educación cívica en voz alta. En el examen 2025: hasta 20 preguntas, y necesita 12 correctas."},
+          {"title": "Aviso de decisión", "text": "Al final, normalmente recibe el Formulario N-652 con el resultado de su entrevista."}
+        ]},
+        {"type": "tool", "tool": "n400", "text": "Practique todas las preguntas de sí/no del Formulario N-400, Parte 9"},
+        {"type": "h", "text": "Consejos"},
+        {"type": "list", "items": [
+          "Vuelva a leer todo su N-400 antes de la entrevista. Sus respuestas deben coincidir con él.",
+          "Diga siempre la verdad. Si no entiende, diga: «Could you please repeat the question?» (¿Podría repetir la pregunta, por favor?)",
+          "Aprenda el significado de palabras difíciles del N-400 como «habitual drunkard» (borracho habitual) o «totalitarian party» (partido totalitario) (vea la sección de la entrevista en esta app).",
+          "Conozca las respuestas actuales de su estado: senadores, representante, gobernador y capital.",
+          "Vístase de forma ordenada, sea cortés y hable con claridad.",
+          "Si alguna vez lo arrestaron o lo multaron, lleve los documentos judiciales certificados, aunque el caso se haya desestimado.",
+          "Puede llevar a su abogado o representante acreditado (con el Formulario G-28). Lleve un intérprete solo si califica para una excepción por edad o por discapacidad."
+        ]},
+        {"type": "note", "style": "warning", "text": "En 2025, USCIS anunció que retoma las investigaciones en el vecindario y que evalúa el buen carácter moral de manera más integral. Esté listo para mostrar sus lazos positivos con su comunidad, como el trabajo, los impuestos y las responsabilidades familiares."}
+      ]
+    },
+    {
+      "id": "english_test",
+      "title": "El examen de inglés",
+      "summary": "Hablar, leer y escribir: cómo funciona cada parte y cómo aprobar.",
+      "blocks": [
+        {"type": "list", "items": [
+          "Expresión oral: el oficial decide si usted puede hablar y entender inglés durante la entrevista sobre su solicitud.",
+          "Lectura: debe leer correctamente en voz alta una de tres oraciones.",
+          "Escritura: debe escribir correctamente una de tres oraciones. El oficial lee la oración y usted la escribe."
+        ]},
+        {"type": "p", "text": "Las oraciones de lectura y escritura usan palabras de las listas oficiales de vocabulario de lectura y escritura de USCIS. Los errores pequeños de ortografía, mayúsculas o puntuación normalmente se aceptan si el significado es claro, pero practique escribir bien cada palabra."},
+        {"type": "tool", "tool": "english", "text": "Practique la lectura y la escritura en la sección de inglés de esta app."},
+        {"type": "note", "style": "info", "text": "Si tiene 50 años o más y 20 años como residente permanente, o 55 años o más y 15 años, no hace el examen de inglés (vea Exenciones)."}
+      ]
+    },
+    {
+      "id": "civics_test",
+      "title": "El examen de educación cívica",
+      "summary": "¿Versión 2025 o 2008? Cuántas preguntas hay y cuántas respuestas correctas necesita.",
+      "blocks": [
+        {"type": "h", "text": "¿Qué versión me toca?"},
+        {"type": "list", "items": [
+          "Presentó el Formulario N-400 el 20 de octubre de 2025 o después: el examen de educación cívica 2025.",
+          "Presentó el Formulario N-400 antes del 20 de octubre de 2025: el examen de educación cívica 2008."
+        ]},
+        {"type": "h", "text": "Examen de educación cívica 2025"},
+        {"type": "list", "items": [
+          "128 preguntas posibles.",
+          "El oficial hace hasta 20 preguntas en voz alta.",
+          "Aprueba cuando responde 12 correctamente. El oficial deja de preguntar cuando llega a 12 respuestas correctas o a 9 incorrectas."
+        ]},
+        {"type": "h", "text": "Examen de educación cívica 2008"},
+        {"type": "list", "items": [
+          "100 preguntas posibles.",
+          "El oficial hace hasta 10 preguntas.",
+          "Aprueba cuando responde 6 correctamente. El oficial se detiene cuando llega a 6 respuestas correctas o a 5 incorrectas."
+        ]},
+        {"type": "h", "text": "Consideración especial 65/20"},
+        {"type": "p", "text": "Si tiene 65 años o más y ha sido residente permanente 20 años o más, solo estudia las 20 preguntas marcadas con estrella (★). El oficial le hace 10 de ellas y necesita 6 correctas. Puede hacer el examen de educación cívica en su idioma con un intérprete."},
+        {"type": "h", "text": "Si no aprueba"},
+        {"type": "p", "text": "Tiene dos oportunidades para aprobar los exámenes de inglés y de educación cívica. Si no aprueba una parte, USCIS le vuelve a hacer solo esa parte, normalmente de 60 a 90 días después de la primera entrevista."},
+        {"type": "note", "style": "info", "text": "Algunas respuestas cambian con las elecciones y los nombramientos (presidente, vicepresidente, presidente de la Cámara de Representantes, presidente de la Corte Suprema, sus senadores, su representante y su gobernador). Responda con la persona que ocupe el cargo el día de su entrevista. Consulte uscis.gov/citizenship/testupdates."}
+      ]
+    },
+    {
+      "id": "exemptions",
+      "title": "Exenciones y adaptaciones",
+      "summary": "Excepciones por edad (50/20, 55/15, 65/20), la excepción por discapacidad y las adaptaciones.",
+      "blocks": [
+        {"type": "list", "items": [
+          "50/20: 50 años o más al presentar la solicitud y 20 años como residente permanente — sin examen de inglés. Sí hace el examen de educación cívica, en su idioma con un intérprete.",
+          "55/15: 55 años o más al presentar la solicitud y 15 años como residente permanente — sin examen de inglés. Sí hace el examen de educación cívica, en su idioma con un intérprete.",
+          "65/20: 65 años o más y 20 años como residente permanente — sin examen de inglés, y un examen de educación cívica más sencillo solo con las 20 preguntas marcadas con estrella, en su idioma."
+        ]},
+        {"type": "note", "style": "info", "text": "Si usa una excepción por edad, debe llevar su propio intérprete que hable con fluidez inglés y su idioma."},
+        {"type": "h", "text": "Excepción médica por discapacidad"},
+        {"type": "p", "text": "Si una discapacidad física o del desarrollo, o un impedimento mental, le impide aprender inglés o educación cívica, puede pedir una excepción con el Formulario N-648, Certificación Médica para Excepciones por Discapacidad. Debe completarlo un médico con licencia, un médico osteópata o un psicólogo clínico con licencia."},
+        {"type": "h", "text": "Adaptaciones"},
+        {"type": "p", "text": "Si tiene una discapacidad, puede pedir una adaptación (por ejemplo, un intérprete de lengua de señas o más tiempo) al presentar la solicitud o más tarde por medio del Centro de Contacto de USCIS."}
+      ]
+    },
+    {
+      "id": "after_interview",
+      "title": "Decisión y ceremonia de juramentación",
+      "summary": "Aprobada, continuada o negada, y qué pasa en la ceremonia de juramentación.",
+      "blocks": [
+        {"type": "h", "text": "Posibles decisiones"},
+        {"type": "list", "items": [
+          "Aprobada: usted aprobó y USCIS aprueba su solicitud.",
+          "Continuada: USCIS necesita más documentos (puede recibir el Formulario N-14) o usted necesita repetir parte del examen.",
+          "Negada: USCIS determina que usted no es elegible. Puede pedir una audiencia con el Formulario N-336 dentro de los 30 días después de la decisión (33 días si la decisión llegó por correo)."
+        ]},
+        {"type": "h", "text": "La ceremonia de juramentación"},
+        {"type": "steps", "items": [
+          {"title": "Notificación", "text": "La ceremonia puede ser el mismo día de su entrevista, o USCIS le envía por correo el Formulario N-445 con la fecha y el lugar."},
+          {"title": "Registro", "text": "Responda las preguntas del reverso del Formulario N-445 sobre lo que pasó desde su entrevista (por ejemplo, viajes o arrestos)."},
+          {"title": "Entregue su tarjeta verde", "text": "Usted entrega su Tarjeta de Residente Permanente a USCIS."},
+          {"title": "Preste el Juramento de Lealtad", "text": "Se hace ciudadano de EE. UU. cuando presta el Juramento."},
+          {"title": "Reciba su certificado", "text": "Revise que su Certificado de Naturalización no tenga errores antes de irse."}
+        ]},
+        {"type": "h", "text": "El Juramento de Lealtad"},
+        {"type": "quote", "text": "Por la presente declaro, bajo juramento, que renuncio y abjuro absoluta y completamente a toda lealtad y fidelidad a cualquier príncipe, potentado, estado o soberanía extranjeros de quienes o de los cuales haya sido súbdito o ciudadano hasta ahora; que apoyaré y defenderé la Constitución y las leyes de los Estados Unidos de América contra todos sus enemigos, extranjeros y nacionales; que les tendré verdadera fe y lealtad; que portaré armas en nombre de los Estados Unidos cuando lo requiera la ley; que prestaré servicio no combatiente en las Fuerzas Armadas de los Estados Unidos cuando lo requiera la ley; que realizaré trabajos de importancia nacional bajo dirección civil cuando lo requiera la ley; y que asumo esta obligación libremente, sin ninguna reserva mental ni propósito de evasión; con la ayuda de Dios."},
+        {"type": "h", "text": "Después de hacerse ciudadano"},
+        {"type": "list", "items": [
+          "Solicite un pasaporte de EE. UU.",
+          "Actualice su registro en la Administración del Seguro Social.",
+          "Inscríbase para votar.",
+          "Guarde su Certificado de Naturalización en un lugar seguro."
+        ]}
+      ]
+    },
+    {
+      "id": "after_citizenship",
+      "title": "Después de hacerse ciudadano",
+      "summary": "Pasaporte, Seguro Social, voto, sus hijos, su familia y la doble ciudadanía.",
+      "blocks": [
+        {"type": "h", "text": "Primeros pasos"},
+        {"type": "steps", "items": [
+          {"title": "Solicite un pasaporte de EE. UU.", "text": "Para su primer pasaporte, solicítelo en persona con el Formulario DS-11 y su Certificado de Naturalización original. El Departamento de Estado le devuelve el certificado."},
+          {"title": "Actualice su registro del Seguro Social", "text": "Si respondió «Sí» a la pregunta del Seguro Social en el Formulario N-400, la SSA actualiza su registro y le envía una tarjeta nueva. Si no, comuníquese con la SSA para actualizar su condición de ciudadano."},
+          {"title": "Inscríbase para votar", "text": "Ahora puede votar en las elecciones federales, estatales y locales. Algunas ceremonias de juramentación ofrecen la inscripción de votantes; también puede inscribirse en vote.gov."},
+          {"title": "Guarde su certificado en un lugar seguro", "text": "Guarde su Certificado de Naturalización en un lugar seguro. Si se pierde, se lo roban o se daña, puede reemplazarlo con el Formulario N-565."}
+        ]},
+        {"type": "h", "text": "Sus hijos"},
+        {"type": "p", "text": "Un hijo menor de 18 años que es residente permanente y vive en los Estados Unidos bajo su custodia legal y física normalmente se hace ciudadano de EE. UU. automáticamente cuando usted se naturaliza. Para tener la prueba, solicite un pasaporte de EE. UU. para el niño o presente el Formulario N-600."},
+        {"type": "h", "text": "Su familia"},
+        {"type": "p", "text": "Como ciudadano, puede presentar el Formulario I-130 para su cónyuge, sus hijos, sus padres (si usted tiene 21 años o más) y sus hermanos (si usted tiene 21 años o más). Los cónyuges, los hijos solteros menores de 21 años y los padres de ciudadanos adultos no esperan un número de visa."},
+        {"type": "h", "text": "Viajes y doble ciudadanía"},
+        {"type": "list", "items": [
+          "Use su pasaporte de EE. UU. para salir de los Estados Unidos y entrar en el país.",
+          "La ley de EE. UU. no le exige renunciar a su otra ciudadanía. Su otro país puede tener sus propias reglas, y algunos países exigen que sus ciudadanos usen el pasaporte de ese país para entrar y salir.",
+          "Antes de viajar, lea la advertencia de viaje de su destino en travel.state.gov."
+        ]},
+        {"type": "note", "style": "info", "text": "Actualice sus registros con su empleador, su banco y las agencias del estado (por ejemplo, el DMV) cuando le pidan su condición de ciudadano."}
+      ]
+    },
+    {
+      "id": "rights",
+      "title": "Derechos y responsabilidades de los ciudadanos",
+      "summary": "Qué cambia cuando se hace ciudadano de EE. UU.",
+      "blocks": [
+        {"type": "h", "text": "Derechos"},
+        {"type": "list", "items": [
+          "Libertad para expresarse y para practicar su culto como desee.",
+          "El derecho a un juicio rápido y justo con jurado.",
+          "El derecho a votar en las elecciones de funcionarios públicos.",
+          "El derecho a solicitar empleos federales que exigen la ciudadanía estadounidense.",
+          "El derecho a postularse a cargos de elección.",
+          "Un pasaporte de EE. UU. y ayuda de las embajadas de EE. UU. en el extranjero.",
+          "La posibilidad de patrocinar a más familiares para que inmigren."
+        ]},
+        {"type": "h", "text": "Responsabilidades"},
+        {"type": "list", "items": [
+          "Apoyar y defender la Constitución.",
+          "Mantenerse informado sobre los asuntos de su comunidad y participar en el proceso democrático.",
+          "Respetar y obedecer las leyes federales, estatales y locales.",
+          "Respetar los derechos, las creencias y las opiniones de los demás.",
+          "Pagar los impuestos sobre la renta y otros impuestos con honestidad y a tiempo.",
+          "Servir como jurado cuando lo convoquen.",
+          "Defender al país si surge la necesidad."
+        ]}
+      ]
+    },
+    {
+      "id": "updates",
+      "title": "Cambios recientes (2025–2026)",
+      "summary": "Cambios importantes de política que pueden afectar su solicitud.",
+      "blocks": [
+        {"type": "note", "style": "warning", "text": "Las políticas de inmigración están cambiando rápidamente y algunas se están impugnando en los tribunales. Consulte siempre uscis.gov y hable con un abogado o un representante acreditado sobre su propio caso."},
+        {"type": "h", "text": "Nuevo examen de educación cívica 2025 — 20 de octubre de 2025"},
+        {"type": "p", "text": "Quienes presentan el Formulario N-400 el 20 de octubre de 2025 o después hacen el examen de educación cívica 2025: 20 preguntas de una lista de 128, y 12 respuestas correctas para aprobar."},
+        {"type": "h", "text": "Revisión del buen carácter moral — agosto de 2025"},
+        {"type": "p", "text": "Un memorando de política de USCIS (PM-602-0188, del 15 de agosto de 2025) indica a los oficiales evaluar el buen carácter moral de manera integral, teniendo en cuenta los aportes positivos (como el trabajo, el pago de impuestos y las responsabilidades familiares) y no solo la ausencia de mala conducta. Votar ilegalmente, inscribirse ilegalmente para votar y afirmar falsamente ser ciudadano de EE. UU. descalifican a los solicitantes."},
+        {"type": "h", "text": "Investigaciones en el vecindario — 2025 y 2026"},
+        {"type": "p", "text": "USCIS retomó las investigaciones en el vecindario en 2025. El 25 de agosto de 2026 actualizó su Manual de Políticas para confirmarlas y para revisar con más detalle la información del solicitante durante la entrevista. Los oficiales pueden contactar a vecinos, empleadores o compañeros de trabajo para confirmar dónde vive y trabaja usted."},
+        {"type": "h", "text": "Pagos electrónicos de tarifas — 28 de octubre de 2025"},
+        {"type": "p", "text": "USCIS ya no acepta cheques en papel ni giros postales para las solicitudes en papel. Pague con tarjeta (Formulario G-1450) o desde una cuenta bancaria de EE. UU. (Formulario G-1650), salvo que califique para una excepción (Formulario G-1651)."},
+        {"type": "h", "text": "Suspensión de solicitudes de ciertos países — de diciembre de 2025 a agosto de 2026"},
+        {"type": "p", "text": "En diciembre de 2025 y enero de 2026, USCIS suspendió las solicitudes de beneficios pendientes, incluida la naturalización, de personas de los países de la Proclamación Presidencial 10949 y de otros países añadidos después (la lista incluye Afganistán e Irán). El 5 de junio de 2026, un tribunal federal de Rhode Island anuló estas políticas de suspensión, y el 24 de agosto de 2026 un tribunal federal de California ordenó a USCIS decidir las solicitudes afectadas de forma normal. USCIS dijo que cumplirá las órdenes mientras busca una revisión adicional. Si usted es de un país afectado, revise los avisos más recientes de USCIS y busque asesoría legal."},
+        {"type": "h", "text": "Aumento de tarifa propuesto — 23 de junio de 2026"},
+        {"type": "p", "text": "El DHS propuso subir la tarifa del N-400 a $1,330 (en papel) y $1,280 (por internet) y eliminar las exenciones y las tarifas reducidas del Formulario N-400. El período de comentarios cerró el 24 de agosto de 2026. El aumento no es definitivo; siguen vigentes las tarifas actuales ($710 por internet y $760 en papel)."}
+      ]
+    },
+    {
+      "id": "resources",
+      "title": "Recursos oficiales y ayuda",
+      "summary": "Enlaces confiables, clases gratuitas y cómo evitar las estafas de inmigración.",
+      "blocks": [
+        {"type": "link", "text": "Centro de Recursos de Ciudadanía de USCIS", "url": "https://www.uscis.gov/citizenship"},
+        {"type": "link", "text": "Formulario N-400, Solicitud de Naturalización", "url": "https://www.uscis.gov/n-400"},
+        {"type": "link", "text": "Actualizaciones del examen de educación cívica (funcionarios actuales)", "url": "https://www.uscis.gov/citizenship/testupdates"},
+        {"type": "link", "text": "Consulte el estado de su caso", "url": "https://egov.uscis.gov/"},
+        {"type": "link", "text": "Tiempos de procesamiento de USCIS", "url": "https://egov.uscis.gov/processing-times/"},
+        {"type": "link", "text": "Cuenta de USCIS en internet", "url": "https://myaccount.uscis.gov/"},
+        {"type": "link", "text": "Busque una clase de ciudadanía cerca de usted", "url": "https://www.uscis.gov/citizenship/findcitizenshiphelp"},
+        {"type": "link", "text": "Busque ayuda legal gratuita o de bajo costo (organizaciones reconocidas por el Departamento de Justicia)", "url": "https://www.justice.gov/eoir/recognized-organizations-and-accredited-representatives-roster-state-and-city"},
+        {"type": "link", "text": "Evite las estafas", "url": "https://www.uscis.gov/avoid-scams"},
+        {"type": "p", "text": "Centro de Contacto de USCIS: 800-375-5283 (TTY 800-767-1833)."},
+        {"type": "note", "style": "warning", "text": "Solo los abogados y los representantes acreditados por el Departamento de Justicia pueden darle asesoría legal. Los «notarios» y los consultores de inmigración no pueden. Los formularios de USCIS se descargan gratis en uscis.gov."}
+      ]
+    },
+    {
+      "id": "about",
+      "title": "Acerca de esta app y aviso legal",
+      "summary": "De dónde viene la información y qué no es esta app.",
+      "blocks": [
+        {"type": "note", "style": "warning", "text": "Esta app es una herramienta de estudio independiente. No está afiliada, respaldada ni vinculada al Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) ni a ninguna agencia del gobierno. No ofrece asesoría legal."},
+        {"type": "p", "text": "Las preguntas y respuestas de educación cívica y el vocabulario de lectura y escritura vienen de publicaciones oficiales de USCIS. Las explicaciones, las oraciones de práctica, las opciones múltiples y las traducciones se escribieron para esta app para ayudarle a aprender; no son material oficial de USCIS. La entrevista y todos los exámenes son en inglés."},
+        {"type": "p", "text": "La información sobre los funcionarios actuales, las tarifas y las políticas se verificó con fuentes oficiales en la fecha que muestra la app. Puede cambiar en cualquier momento. Confírmela siempre en uscis.gov antes de su entrevista o antes de presentar la solicitud."},
+        {"type": "h", "text": "Privacidad"},
+        {"type": "p", "text": "Su progreso, sus viajes, las fechas de su caso y sus ajustes se guardan solo en este dispositivo. La app no tiene cuentas ni rastreo. Sus respuestas en el repaso del Formulario N-400 no se guardan. El micrófono solo se usa cuando usted lo toca, y las notificaciones solo si activa el recordatorio diario."}
+      ]
+    }
+  ]
+}

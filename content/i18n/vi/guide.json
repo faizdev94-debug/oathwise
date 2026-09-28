@@ -1,0 +1,465 @@
+{
+  "articles": [
+    {
+      "id": "overview",
+      "title": "Con đường đến quốc tịch Hoa Kỳ của bạn",
+      "summary": "Nhập tịch là gì và toàn bộ thủ tục diễn ra như thế nào, trong một trang.",
+      "blocks": [
+        {"type": "p", "text": "Nhập tịch là thủ tục để một thường trú nhân hợp pháp (người có thẻ xanh) trở thành công dân Hoa Kỳ. Bạn nộp Mẫu N-400, Đơn Xin Nhập Tịch, cho Sở Di Trú và Nhập Tịch Hoa Kỳ (USCIS)."},
+        {"type": "h", "text": "Tóm tắt thủ tục"},
+        {"type": "steps", "items": [
+          {"title": "Kiểm tra điều kiện của bạn", "text": "Hầu hết mọi người cần 5 năm là thường trú nhân (3 năm nếu kết hôn và sống chung với công dân Hoa Kỳ)."},
+          {"title": "Nộp Mẫu N-400", "text": "Nộp trên mạng hoặc qua đường bưu điện và đóng lệ phí. Bạn sẽ nhận được giấy biên nhận."},
+          {"title": "Sinh trắc học", "text": "USCIS có thể hẹn bạn đến lấy dấu vân tay, chụp ảnh và lấy chữ ký."},
+          {"title": "Phỏng vấn và thi", "text": "Một viên chức xem xét đơn của bạn và cho bạn thi tiếng Anh (nói, đọc, viết) và thi công dân."},
+          {"title": "Quyết định", "text": "Đơn của bạn được chấp thuận, tạm hoãn (cần thêm bằng chứng hoặc phải thi lại) hoặc bị từ chối."},
+          {"title": "Lễ tuyên thệ", "text": "Bạn đọc Lời Tuyên Thệ Trung Thành và nhận Giấy Chứng Nhận Nhập Tịch. Bạn đã là công dân Hoa Kỳ."}
+        ]},
+        {"type": "h", "text": "Ứng dụng này giúp bạn thế nào"},
+        {"type": "list", "items": [
+          "Học mọi câu hỏi công dân chính thức (phiên bản 2025 và 2008) kèm đáp án, giải thích và bản dịch.",
+          "Làm các bài thi thử giống thật, theo đúng quy định chính thức (ví dụ 20 câu hỏi và đúng 12 câu là đậu bài thi 2025).",
+          "Luyện bài thi đọc và viết tiếng Anh với từ vựng chính thức của USCIS.",
+          "Chuẩn bị cho các câu hỏi phỏng vấn và những từ khó trong N-400.",
+          "Tìm hiểu thủ tục: điều kiện, lệ phí, giấy tờ, buổi phỏng vấn và lễ tuyên thệ."
+        ]},
+        {"type": "note", "style": "info", "text": "Buổi phỏng vấn và các bài thi nhập tịch đều bằng tiếng Anh. Ứng dụng này luôn hiển thị văn bản tiếng Anh chính thức, và bản dịch chỉ để giúp bạn hiểu."}
+      ]
+    },
+    {
+      "id": "eligibility",
+      "title": "Ai được nộp đơn (điều kiện)",
+      "summary": "Các điều kiện chung, quy định 3 năm cho vợ/chồng của công dân Hoa Kỳ, và việc nộp đơn sớm.",
+      "blocks": [
+        {"type": "tool", "tool": "eligibility", "text": "Dùng công cụ tính ngày đủ điều kiện để tìm ngày sớm nhất bạn có thể nộp đơn."},
+        {"type": "h", "text": "Điều kiện chung (quy định 5 năm)"},
+        {"type": "list", "items": [
+          "Bạn từ 18 tuổi trở lên khi nộp đơn.",
+          "Bạn đã là thường trú nhân hợp pháp (người có thẻ xanh) ít nhất 5 năm.",
+          "Cư trú liên tục: bạn đã sống tại Hoa Kỳ với tư cách thường trú nhân trong 5 năm ngay trước khi nộp đơn, không có chuyến đi nước ngoài dài.",
+          "Hiện diện thực tế: bạn đã thực sự có mặt tại Hoa Kỳ ít nhất 30 tháng (913 ngày) trong 5 năm đó.",
+          "Bạn đã sống ít nhất 3 tháng tại tiểu bang hoặc khu vực USCIS nơi bạn nộp đơn.",
+          "Bạn sống liên tục tại Hoa Kỳ từ ngày nộp đơn cho đến khi trở thành công dân.",
+          "Bạn biết đọc, viết và nói tiếng Anh cơ bản và hiểu biết về lịch sử và chính quyền Hoa Kỳ (môn công dân), trừ khi được miễn.",
+          "Bạn có tư cách đạo đức tốt và gắn bó với các nguyên tắc của Hiến Pháp Hoa Kỳ."
+        ]},
+        {"type": "h", "text": "Vợ/chồng của công dân Hoa Kỳ (quy định 3 năm)"},
+        {"type": "list", "items": [
+          "Bạn đã là thường trú nhân ít nhất 3 năm.",
+          "Bạn đã kết hôn và sống chung với cùng một người vợ/chồng là công dân Hoa Kỳ trong 3 năm qua, và người đó là công dân trong suốt thời gian này.",
+          "Cư trú liên tục 3 năm và hiện diện thực tế ít nhất 18 tháng (548 ngày).",
+          "Tất cả các điều kiện khác (tuổi, 3 tháng tại tiểu bang hoặc khu vực, tiếng Anh, công dân, tư cách đạo đức tốt) cũng được áp dụng."
+        ]},
+        {"type": "h", "text": "Các chuyến đi ra khỏi Hoa Kỳ"},
+        {"type": "list", "items": [
+          "Một chuyến đi dài hơn 6 tháng nhưng dưới 1 năm có thể làm gián đoạn cư trú liên tục. Bạn có thể đưa ra bằng chứng cho thấy vẫn giữ gắn bó chặt chẽ với Hoa Kỳ (công việc, nhà ở, thuế, gia đình).",
+          "Một chuyến đi từ 1 năm trở lên thường làm gián đoạn cư trú liên tục.",
+          "Các chuyến đi ngắn không làm gián đoạn cư trú liên tục, nhưng mỗi ngày ở ngoài Hoa Kỳ đều bị trừ vào thời gian hiện diện thực tế."
+        ]},
+        {"type": "tool", "tool": "trips", "text": "Đếm số ngày ở nước ngoài bằng công cụ tính chuyến đi"},
+        {"type": "h", "text": "Nộp đơn sớm"},
+        {"type": "p", "text": "Bạn có thể nộp đơn sớm tối đa 90 ngày trước khi đủ thời gian thường trú 5 năm (hoặc 3 năm). Tất cả các điều kiện khác, như 3 tháng tại tiểu bang hoặc khu vực, phải được đáp ứng ngay vào ngày bạn nộp đơn."},
+        {"type": "h", "text": "Các trường hợp khác"},
+        {"type": "list", "items": [
+          "Quân nhân và cựu quân nhân có thể hội đủ điều kiện theo các quy định đặc biệt (INA 328 và 329), đôi khi không cần điều kiện cư trú và không phải đóng lệ phí.",
+          "Trẻ em dưới 18 tuổi là thường trú nhân và sống với cha hoặc mẹ là công dân Hoa Kỳ có thể đã tự động là công dân. Các em dùng Mẫu N-600 để xin Giấy Chứng Nhận Quốc Tịch, không dùng Mẫu N-400."
+        ]},
+        {"type": "note", "style": "warning", "text": "Nếu bạn đã từng bị bắt, đã ở nước ngoài lâu, đang có vấn đề di trú chưa giải quyết, hoặc không chắc chắn, hãy hỏi ý kiến luật sư di trú hoặc đại diện được Bộ Tư pháp công nhận trước khi nộp đơn."}
+      ]
+    },
+    {
+      "id": "moral_character",
+      "title": "Tư cách đạo đức tốt",
+      "summary": "USCIS xem xét những gì và điều gì có thể gây rắc rối: bị bắt, thuế, cấp dưỡng con, bầu cử, vé phạt giao thông và đăng ký nghĩa vụ quân sự.",
+      "blocks": [
+        {"type": "p", "text": "Bạn phải chứng tỏ tư cách đạo đức tốt trong 5 năm trước khi nộp đơn (3 năm nếu nộp đơn với tư cách vợ/chồng của công dân Hoa Kỳ) và cho đến khi tuyên thệ. USCIS cũng xem xét những đóng góp tích cực của bạn, như làm việc, đóng thuế và chăm lo cho gia đình."},
+        {"type": "h", "text": "Những điều có thể gây rắc rối"},
+        {"type": "list", "items": [
+          "Bị bắt, bị phạt và phạm tội ở bất kỳ nơi nào trên thế giới. Hãy khai tất cả trong Mẫu N-400, kể cả khi vụ việc đã bị hủy bỏ hoặc xóa hồ sơ, hoặc xảy ra trước khi bạn 18 tuổi.",
+          "Đang trong thời gian quản chế, tạm tha có điều kiện hoặc án treo. USCIS sẽ không chấp thuận đơn của bạn cho đến khi thời gian đó kết thúc.",
+          "Không khai thuế, hoặc còn nợ thuế. Nếu bạn nợ thuế, hãy đưa ra thỏa thuận với sở thuế và bằng chứng bạn trả đúng như đã thỏa thuận.",
+          "Không chu cấp cho con không sống cùng bạn, hoặc không trả tiền cấp dưỡng theo lệnh tòa.",
+          "Tự nhận là công dân Hoa Kỳ, hoặc ghi danh cử tri hay đi bầu khi bạn không được phép.",
+          "Đưa thông tin sai để được hưởng quyền lợi di trú, hoặc nói dối viên chức."
+        ]},
+        {"type": "h", "text": "Vé phạt giao thông"},
+        {"type": "p", "text": "Bạn không cần gửi giấy tờ về một vụ giao thông trừ khi vụ đó có liên quan đến rượu bia hoặc ma túy, dẫn đến việc bị bắt, hoặc làm người khác bị thương nặng. Dù vậy, vẫn hãy trả lời trung thực mọi câu hỏi."},
+        {"type": "h", "text": "Nghĩa vụ quân sự (nam giới)"},
+        {"type": "list", "items": [
+          "Hầu hết nam giới sống tại Hoa Kỳ, kể cả thường trú nhân, phải đăng ký với Selective Service trong độ tuổi từ 18 đến 26.",
+          "Dưới 26 tuổi: hãy đăng ký trước khi nộp đơn.",
+          "Từ 26 đến 31 tuổi (từ 26 đến 29 nếu nộp đơn với tư cách vợ/chồng của công dân Hoa Kỳ) và bạn chưa đăng ký: hãy giải thích lý do trong đơn và gửi Thư Thông Tin về Tình Trạng của Selective Service.",
+          "Từ 31 tuổi trở lên (từ 29 tuổi trở lên đối với vợ/chồng của công dân Hoa Kỳ): bạn không cần giải thích hay gửi thư."
+        ]},
+        {"type": "tool", "tool": "n400", "text": "Luyện mọi câu hỏi có/không trong Mẫu N-400, Phần 9"},
+        {"type": "note", "style": "warning", "text": "Một số tội vĩnh viễn ngăn cản việc nhập tịch, và một số tội có thể dẫn đến việc bị trục xuất khỏi Hoa Kỳ. Nếu bạn đã từng bị bắt, bị buộc tội hoặc bị kết án, hãy hỏi ý kiến luật sư di trú hoặc đại diện được Bộ Tư pháp công nhận trước khi nộp đơn."}
+      ]
+    },
+    {
+      "id": "steps",
+      "title": "10 bước để nhập tịch",
+      "summary": "Các bước chính thức của USCIS, từ kiểm tra điều kiện đến Giấy Chứng Nhận Nhập Tịch.",
+      "blocks": [
+        {"type": "steps", "items": [
+          {"title": "1. Tìm hiểu xem bạn đã là công dân Hoa Kỳ hay chưa", "text": "Một số người đã tự động trở thành công dân khi sinh ra hoặc nhờ cha mẹ. Nếu vậy, bạn không cần Mẫu N-400."},
+          {"title": "2. Tìm hiểu xem bạn có đủ điều kiện không", "text": "Kiểm tra các điều kiện về tuổi, thường trú, cư trú liên tục, hiện diện thực tế và tư cách đạo đức tốt."},
+          {"title": "3. Chuẩn bị Mẫu N-400", "text": "Điền đơn và thu thập giấy tờ. Chỉ cần ảnh nếu bạn sống ở ngoài Hoa Kỳ."},
+          {"title": "4. Nộp Mẫu N-400 và đóng lệ phí", "text": "Nộp trên mạng qua tài khoản USCIS hoặc qua đường bưu điện. USCIS gửi giấy biên nhận và bạn có thể kiểm tra tình trạng hồ sơ trên mạng."},
+          {"title": "5. Đến buổi hẹn sinh trắc học, nếu có", "text": "USCIS gửi thông báo ghi ngày, giờ và địa điểm. Bạn sẽ được lấy dấu vân tay, chụp ảnh và lấy chữ ký."},
+          {"title": "6. Tham dự buổi phỏng vấn", "text": "Đến văn phòng USCIS đúng giờ hẹn. Viên chức xem xét đơn của bạn và cho bạn thi tiếng Anh và thi công dân."},
+          {"title": "7. Nhận quyết định", "text": "Được chấp thuận, tạm hoãn (cần thêm bằng chứng hoặc thi lại) hoặc bị từ chối."},
+          {"title": "8. Nhận thông báo tuyên thệ", "text": "Đôi khi lễ tuyên thệ diễn ra ngay trong ngày phỏng vấn. Nếu không, USCIS gửi cho bạn thông báo (Mẫu N-445) ghi ngày làm lễ."},
+          {"title": "9. Đọc Lời Tuyên Thệ Trung Thành", "text": "Làm thủ tục, nộp lại thẻ xanh, trả lời các câu hỏi trong Mẫu N-445, tuyên thệ và nhận Giấy Chứng Nhận Nhập Tịch."},
+          {"title": "10. Hiểu về quốc tịch Hoa Kỳ", "text": "Tìm hiểu các quyền và trách nhiệm mới của bạn, như bầu cử và làm bồi thẩm."}
+        ]}
+      ]
+    },
+    {
+      "id": "fees",
+      "title": "Lệ phí và cách thanh toán",
+      "summary": "Lệ phí N-400 hiện tại, lệ phí giảm, miễn lệ phí và các cách thanh toán được chấp nhận.",
+      "blocks": [
+        {"type": "h", "text": "Lệ phí Mẫu N-400 hiện tại"},
+        {"type": "list", "items": [
+          "Nộp trên mạng: $710",
+          "Nộp đơn giấy: $760",
+          "Lệ phí giảm: $380, nếu thu nhập hộ gia đình của bạn bằng hoặc thấp hơn 400% Mức Chuẩn Nghèo Liên Bang (xin trên Mẫu N-400 bằng giấy, kèm bằng chứng thu nhập).",
+          "Miễn lệ phí: $0, nếu bạn hội đủ điều kiện (ví dụ thu nhập bằng hoặc thấp hơn 150% Mức Chuẩn Nghèo Liên Bang, đang nhận trợ cấp dựa trên thu nhập, hoặc gặp khó khăn tài chính). Dùng Mẫu I-912.",
+          "Hầu hết người nộp đơn dựa trên thời gian phục vụ quân đội không phải đóng lệ phí."
+        ]},
+        {"type": "p", "text": "Lệ phí sinh trắc học đã bao gồm trong lệ phí N-400. Đơn xin giảm lệ phí và miễn lệ phí không thể nộp trên mạng; phải nộp bằng giấy."},
+        {"type": "h", "text": "Cách thanh toán"},
+        {"type": "list", "items": [
+          "Nộp trên mạng: thanh toán trong tài khoản USCIS trên mạng của bạn.",
+          "Nộp đơn giấy: thanh toán bằng thẻ tín dụng, thẻ ghi nợ hoặc thẻ trả trước với Mẫu G-1450, hoặc trực tiếp từ tài khoản ngân hàng tại Hoa Kỳ với Mẫu G-1650 (ACH).",
+          "Từ ngày 28 tháng 10 năm 2025, USCIS không còn nhận chi phiếu cá nhân, lệnh chuyển tiền (money order) hay chi phiếu của ngân hàng (cashier's check) cho đơn nộp bằng giấy, trừ khi bạn được miễn (Mẫu G-1651)."
+        ]},
+        {"type": "note", "style": "warning", "text": "Đề xuất tăng lệ phí: ngày 23 tháng 6 năm 2026, DHS đã đề xuất tăng lệ phí N-400 lên $1,330 (đơn giấy) và $1,280 (trên mạng) và bỏ việc miễn giảm lệ phí cho Mẫu N-400. Thời hạn góp ý đã kết thúc ngày 24 tháng 8 năm 2026. Đây là một đề xuất, không phải quy định chính thức. Lệ phí hiện tại vẫn được áp dụng cho đến khi quy định chính thức có hiệu lực. Luôn kiểm tra lệ phí trên uscis.gov trước khi nộp đơn."},
+        {"type": "link", "text": "Công cụ tính lệ phí của USCIS", "url": "https://www.uscis.gov/feecalculator"}
+      ]
+    },
+    {
+      "id": "documents",
+      "title": "Danh sách giấy tờ",
+      "summary": "Những gì cần gửi kèm Mẫu N-400 và những gì cần mang đến buổi phỏng vấn. Đánh dấu từng mục khi bạn chuẩn bị xong.",
+      "blocks": [
+        {"type": "h", "text": "Tất cả mọi người"},
+        {"type": "checklist", "items": [
+          {"id": "doc_gc", "text": "Bản sao hai mặt thẻ xanh (Thẻ Thường Trú Nhân). Nếu bị mất, bản sao biên nhận Mẫu I-90."},
+          {"id": "doc_fee", "text": "Lệ phí nộp đơn (thẻ với Mẫu G-1450 hoặc tài khoản ngân hàng với Mẫu G-1650), hoặc đơn xin miễn / giảm lệ phí."},
+          {"id": "doc_photos", "text": "Hai ảnh cỡ hộ chiếu, chỉ khi bạn sống ở ngoài Hoa Kỳ."},
+          {"id": "doc_trips", "text": "Danh sách mọi chuyến đi ra khỏi Hoa Kỳ trong 5 năm qua (ngày tháng và quốc gia)."},
+          {"id": "doc_addresses", "text": "Các địa chỉ và nơi làm việc (hoặc trường học) của bạn trong 5 năm qua."}
+        ]},
+        {"type": "h", "text": "Nếu áp dụng cho bạn"},
+        {"type": "checklist", "items": [
+          {"id": "doc_g28", "text": "Mẫu G-28, nếu có luật sư hoặc đại diện được công nhận giúp bạn."},
+          {"id": "doc_namechange", "text": "Giấy tờ về việc đổi tên hợp pháp (giấy chứng nhận kết hôn, phán quyết ly hôn hoặc lệnh của tòa án)."},
+          {"id": "doc_spouse_citizen", "text": "Kết hôn với công dân Hoa Kỳ (quy định 3 năm): bằng chứng vợ/chồng bạn đã là công dân được 3 năm (giấy khai sinh, giấy chứng nhận nhập tịch, giấy chứng nhận quốc tịch, hộ chiếu hoặc FS-240)."},
+          {"id": "doc_marriage", "text": "Giấy chứng nhận kết hôn hiện tại và bằng chứng tất cả các cuộc hôn nhân trước (của bạn và của vợ/chồng bạn) đã chấm dứt."},
+          {"id": "doc_joint", "text": "Bằng chứng về cuộc sống vợ chồng: tờ khai thuế chung, tài khoản ngân hàng chung, hợp đồng thuê nhà hoặc vay mua nhà, giấy khai sinh của con, hoặc bản sao hồ sơ thuế của IRS trong 3 năm qua."},
+          {"id": "doc_longtrip", "text": "Bất kỳ chuyến đi nào từ 6 tháng trở lên: bằng chứng bạn vẫn gắn bó với Hoa Kỳ (bản sao hồ sơ thuế của IRS, cuống phiếu lương, biên lai trả tiền thuê hoặc tiền vay mua nhà)."},
+          {"id": "doc_support", "text": "Con hoặc vợ/chồng không sống cùng bạn: lệnh cấp dưỡng của tòa án và bằng chứng bạn đã trả."},
+          {"id": "doc_arrest", "text": "Bất kỳ lần bị bắt, bị phạt hoặc bị tạm giữ nào: hồ sơ tòa án có chứng thực và kết quả cuối cùng của từng vụ, cùng bằng chứng bạn đã chấp hành xong bản án."},
+          {"id": "doc_taxes", "text": "Nợ thuế quá hạn: thỏa thuận có chữ ký với IRS hoặc sở thuế tiểu bang và bằng chứng về tình trạng kế hoạch trả nợ."},
+          {"id": "doc_n648", "text": "Miễn thi vì khuyết tật: bản chính Mẫu N-648 do bác sĩ hoặc nhà tâm lý học lâm sàng có giấy phép điền."},
+          {"id": "doc_sss", "text": "Nam giới không đăng ký Selective Service trong độ tuổi từ 18 đến 26: Thư Thông Tin về Tình Trạng của Selective Service."},
+          {"id": "doc_military", "text": "Đơn dựa trên thời gian phục vụ quân đội: Mẫu N-426, Yêu Cầu Chứng Nhận Phục Vụ Quân Đội hoặc Hải Quân."}
+        ]},
+        {"type": "h", "text": "Mang đến buổi phỏng vấn"},
+        {"type": "checklist", "items": [
+          {"id": "int_notice", "text": "Giấy hẹn phỏng vấn."},
+          {"id": "int_gc", "text": "Bản chính thẻ xanh."},
+          {"id": "int_id", "text": "Giấy tờ tùy thân do tiểu bang cấp hoặc bằng lái xe."},
+          {"id": "int_passports", "text": "Tất cả hộ chiếu và giấy thông hành còn hạn và hết hạn mà bạn đã dùng kể từ khi trở thành thường trú nhân."},
+          {"id": "int_originals", "text": "Bản chính của mọi bản sao bạn đã gửi, và mọi giấy tờ mà thông báo yêu cầu."}
+        ]},
+        {"type": "note", "style": "info", "text": "Gửi bản sao trừ khi USCIS yêu cầu bản chính. Giấy tờ bằng ngôn ngữ khác phải có bản dịch tiếng Anh đầy đủ kèm xác nhận của người dịch."}
+      ]
+    },
+    {
+      "id": "notices",
+      "title": "Thư và thông báo của USCIS",
+      "summary": "Ý nghĩa của từng thông báo và bạn cần làm gì: biên nhận, sinh trắc học, phỏng vấn, kết quả và lễ tuyên thệ.",
+      "blocks": [
+        {"type": "p", "text": "USCIS gửi hầu hết các thông báo qua đường bưu điện và cũng hiển thị trong tài khoản USCIS trên mạng của bạn. Hãy đọc kỹ và giữ lại tất cả các thông báo."},
+        {"type": "h", "text": "Mẫu I-797C, Thông Báo Quyết Định (Notice of Action)"},
+        {"type": "list", "items": [
+          "Giấy biên nhận: xác nhận USCIS đã nhận Mẫu N-400 và lệ phí của bạn. Trên đó có số biên nhận (3 chữ cái và 10 chữ số). Dùng số này để kiểm tra tình trạng hồ sơ trên mạng. Cùng với thẻ xanh, giấy này cũng gia hạn thẻ sắp hết hạn thêm 24 tháng.",
+          "Thông báo hẹn sinh trắc học: ngày, giờ và địa điểm (một Trung Tâm Hỗ Trợ Nộp Đơn) để lấy dấu vân tay, chụp ảnh và lấy chữ ký. Mang theo thông báo và thẻ xanh. USCIS có thể dùng lại dấu vân tay bạn đã lấy trước đây; khi đó bạn có thể không nhận được buổi hẹn này.",
+          "Thông báo hẹn phỏng vấn: ngày, giờ và văn phòng USCIS nơi bạn phỏng vấn, cùng các giấy tờ cần mang theo. Hãy đến sớm."
+        ]},
+        {"type": "note", "style": "warning", "text": "Nếu bạn không thể đến buổi hẹn, hãy làm theo hướng dẫn trên thông báo để đổi lịch. Nếu bạn vắng mặt buổi phỏng vấn và không liên lạc với USCIS trong vòng 30 ngày, USCIS có thể đóng hồ sơ của bạn. Bạn có thể xin mở lại trong vòng một năm."},
+        {"type": "h", "text": "Mẫu N-14, Yêu Cầu Bổ Sung Bằng Chứng"},
+        {"type": "p", "text": "USCIS cần thêm giấy tờ hoặc thông tin để quyết định. Hãy gửi đúng những gì được yêu cầu trước hạn chót: thường là 30 ngày (cộng thêm 3 ngày nếu yêu cầu được gửi qua bưu điện)."},
+        {"type": "h", "text": "Mẫu N-652, Thông Báo Kết Quả Kiểm Tra"},
+        {"type": "list", "items": [
+          "Viên chức đưa bạn tờ giấy này vào cuối buổi phỏng vấn. Giấy cho biết bạn có đậu bài thi tiếng Anh và bài thi công dân hay không.",
+          "Chấp thuận: USCIS chấp thuận đơn của bạn. Bạn có thể tuyên thệ ngay trong ngày hoặc nhận Mẫu N-445 qua đường bưu điện.",
+          "Tạm hoãn: USCIS cần thêm giấy tờ, hoặc bạn phải thi lại phần chưa đậu. Lần thi lại diễn ra 60 đến 90 ngày sau buổi phỏng vấn đầu tiên.",
+          "Từ chối: USCIS giải thích lý do trong một quyết định bằng văn bản."
+        ]},
+        {"type": "h", "text": "Mẫu N-445, Thông Báo Lễ Tuyên Thệ Nhập Tịch"},
+        {"type": "p", "text": "Ngày, giờ và địa điểm lễ tuyên thệ của bạn. Hãy trả lời các câu hỏi trên thông báo về những gì đã xảy ra kể từ buổi phỏng vấn (ví dụ các chuyến đi, việc bị bắt hoặc kết hôn) và mang thông báo cùng thẻ xanh theo. Nếu bạn không thể tham dự, hãy làm theo hướng dẫn trên thông báo."},
+        {"type": "h", "text": "Nếu đơn của bạn bị từ chối"},
+        {"type": "p", "text": "Bạn có thể xin một buổi điều trần với viên chức di trú bằng Mẫu N-336 trong vòng 30 ngày sau khi nhận quyết định (33 ngày nếu quyết định được gửi qua bưu điện). Hãy hỏi ý kiến luật sư di trú hoặc đại diện được công nhận."},
+        {"type": "note", "style": "warning", "text": "Hãy cẩn thận với lừa đảo. USCIS sẽ không yêu cầu bạn trả tiền qua điện thoại, email, thẻ quà tặng hoặc chuyển tiền. Hãy kiểm tra mọi thông báo trong tài khoản USCIS trên mạng hoặc với Trung Tâm Liên Lạc của USCIS."}
+      ]
+    },
+    {
+      "id": "pending",
+      "title": "Trong khi chờ xét đơn",
+      "summary": "Chuyển nhà, thẻ xanh sắp hết hạn, đi lại, đổi tên, và phải làm gì nếu hồ sơ kéo dài.",
+      "blocks": [
+        {"type": "p", "text": "Sau khi bạn nộp đơn, USCIS gửi giấy biên nhận. Hãy giữ giấy này cùng thẻ xanh, và dùng số biên nhận để kiểm tra tình trạng hồ sơ trên mạng. Thời gian xử lý tùy thuộc vào văn phòng USCIS địa phương của bạn."},
+        {"type": "link", "text": "Thời gian xử lý của USCIS", "url": "https://egov.uscis.gov/processing-times/"},
+        {"type": "h", "text": "Nếu bạn chuyển nhà"},
+        {"type": "list", "items": [
+          "Báo địa chỉ mới cho USCIS trong vòng 10 ngày sau khi chuyển. Dùng tài khoản USCIS trên mạng (kể cả khi bạn nộp đơn giấy) hoặc Mẫu AR-11.",
+          "Đổi địa chỉ với Bưu Điện Hoa Kỳ không đổi địa chỉ với USCIS, và Bưu Điện sẽ không chuyển tiếp thư từ USCIS.",
+          "Nếu bạn chuyển đến tiểu bang hoặc khu vực khác, hồ sơ có thể được chuyển sang một văn phòng USCIS khác, và việc này có thể mất thêm thời gian."
+        ]},
+        {"type": "link", "text": "Đổi địa chỉ với USCIS", "url": "https://www.uscis.gov/addresschange"},
+        {"type": "h", "text": "Nếu thẻ xanh hết hạn"},
+        {"type": "p", "text": "Nếu bạn nộp Mẫu N-400 vào hoặc sau ngày 12 tháng 12 năm 2022, giấy biên nhận gia hạn thẻ xanh thêm 24 tháng kể từ ngày ghi trên thẻ. Hãy mang giấy biên nhận cùng với thẻ. Trong hầu hết các trường hợp, bạn không cần nộp Mẫu I-90."},
+        {"type": "h", "text": "Đi lại"},
+        {"type": "list", "items": [
+          "Bạn có thể đi lại, nhưng hãy về kịp buổi hẹn sinh trắc học, buổi phỏng vấn và lễ tuyên thệ. Vắng mặt có thể làm chậm hoặc bị đóng hồ sơ.",
+          "Hãy giữ nhà ở tại Hoa Kỳ. Bạn phải sống liên tục ở đây từ ngày nộp đơn cho đến khi tuyên thệ, và những chuyến đi dài có thể làm gián đoạn cư trú liên tục.",
+          "Hãy cho viên chức biết về mọi chuyến đi sau khi bạn nộp đơn."
+        ]},
+        {"type": "h", "text": "Giữ cho hồ sơ luôn cập nhật"},
+        {"type": "list", "items": [
+          "Nếu bạn đổi tên hợp pháp, hãy gửi giấy tờ cho USCIS và mang theo đến buổi phỏng vấn. Bạn cũng có thể xin đổi tên như một phần của việc nhập tịch.",
+          "Trong buổi phỏng vấn, hãy cho viên chức biết mọi thay đổi sau khi nộp đơn: địa chỉ, công việc, kết hôn hoặc ly hôn, các chuyến đi, việc bị bắt hoặc bị phạt.",
+          "Tiếp tục khai thuế và trả tiền cấp dưỡng con (nếu có). Tư cách đạo đức tốt được tính cho đến khi tuyên thệ."
+        ]},
+        {"type": "h", "text": "Nếu hồ sơ kéo dài hơn bình thường"},
+        {"type": "p", "text": "Nếu hồ sơ vượt quá thời gian xử lý bình thường, hãy gửi yêu cầu hỏi về hồ sơ trên mạng hoặc gọi Trung Tâm Liên Lạc của USCIS theo số 800-375-5283. Bạn chỉ có thể xin USCIS xử lý nhanh trong trường hợp khẩn cấp, như thiệt hại tài chính nghiêm trọng hoặc lý do nhân đạo cấp bách."},
+        {"type": "tool", "tool": "case", "text": "Lưu các ngày của hồ sơ và xem đếm ngược trong Hồ sơ của tôi"},
+        {"type": "note", "style": "warning", "text": "Không ai có thể trả tiền để USCIS quyết định nhanh hơn. Hãy cẩn thận với bất kỳ ai hứa làm hồ sơ của bạn nhanh hơn."}
+      ]
+    },
+    {
+      "id": "interview",
+      "title": "Buổi phỏng vấn nhập tịch",
+      "summary": "Những gì diễn ra trong ngày phỏng vấn và cách chuẩn bị.",
+      "blocks": [
+        {"type": "h", "text": "Những gì diễn ra"},
+        {"type": "steps", "items": [
+          {"title": "Đến sớm và làm thủ tục", "text": "Mang theo giấy hẹn, thẻ xanh, giấy tờ tùy thân và hộ chiếu. Bạn phải qua kiểm tra an ninh."},
+          {"title": "Tuyên thệ nói sự thật", "text": "Viên chức yêu cầu bạn đứng lên, giơ tay phải và hứa nói sự thật."},
+          {"title": "Xem lại đơn N-400", "text": "Viên chức hỏi về đơn của bạn: tên, địa chỉ, công việc, các chuyến đi, gia đình và các câu hỏi có/không. Câu trả lời của bạn cũng được tính là bài thi nói tiếng Anh."},
+          {"title": "Thi đọc và viết", "text": "Bạn đọc to một trong tối đa ba câu, và viết một trong tối đa ba câu do viên chức đọc cho bạn."},
+          {"title": "Thi công dân", "text": "Viên chức hỏi các câu hỏi công dân bằng lời. Với bài thi 2025: tối đa 20 câu hỏi, bạn cần trả lời đúng 12 câu."},
+          {"title": "Thông báo quyết định", "text": "Cuối buổi phỏng vấn, bạn thường nhận Mẫu N-652 ghi kết quả phỏng vấn."}
+        ]},
+        {"type": "tool", "tool": "n400", "text": "Luyện mọi câu hỏi có/không trong Mẫu N-400, Phần 9"},
+        {"type": "h", "text": "Lời khuyên"},
+        {"type": "list", "items": [
+          "Đọc lại toàn bộ đơn N-400 trước buổi phỏng vấn. Câu trả lời của bạn phải khớp với đơn.",
+          "Luôn nói sự thật. Nếu không hiểu, hãy nói: “Could you please repeat the question?” (Ông/Bà có thể nhắc lại câu hỏi được không?)",
+          "Học nghĩa của những từ khó trong N-400 như “habitual drunkard” (người nghiện rượu thường xuyên) hay “totalitarian party” (đảng toàn trị) (xem phần Phỏng vấn của ứng dụng này).",
+          "Biết các câu trả lời hiện tại cho tiểu bang của bạn: thượng nghị sĩ, dân biểu, thống đốc và thủ phủ.",
+          "Ăn mặc gọn gàng, lịch sự và nói rõ ràng.",
+          "Nếu bạn đã từng bị bắt hoặc bị phạt, hãy mang theo giấy tờ tòa án có chứng thực, kể cả khi vụ việc đã bị hủy bỏ.",
+          "Bạn có thể đi cùng luật sư hoặc đại diện được công nhận (với Mẫu G-28). Chỉ mang theo thông dịch viên nếu bạn được miễn thi vì tuổi tác hoặc khuyết tật."
+        ]},
+        {"type": "note", "style": "warning", "text": "Năm 2025, USCIS thông báo sẽ tiếp tục điều tra tại khu dân cư và đánh giá tư cách đạo đức tốt một cách toàn diện hơn. Hãy sẵn sàng cho thấy sự gắn bó tích cực với cộng đồng, như công việc, đóng thuế và trách nhiệm gia đình."}
+      ]
+    },
+    {
+      "id": "english_test",
+      "title": "Bài thi tiếng Anh",
+      "summary": "Nói, đọc và viết: từng phần diễn ra thế nào và cách để đậu.",
+      "blocks": [
+        {"type": "list", "items": [
+          "Nói: viên chức quyết định bạn có thể nói và hiểu tiếng Anh hay không trong lúc phỏng vấn về đơn của bạn.",
+          "Đọc: bạn phải đọc to đúng một trong ba câu.",
+          "Viết: bạn phải viết đúng một trong ba câu. Viên chức đọc câu và bạn viết lại."
+        ]},
+        {"type": "p", "text": "Các câu đọc và viết dùng từ trong danh sách từ vựng đọc và viết chính thức của USCIS. Lỗi nhỏ về chính tả, chữ hoa hoặc dấu câu thường được chấp nhận nếu ý nghĩa rõ ràng, nhưng hãy luyện viết đúng mọi từ."},
+        {"type": "tool", "tool": "english", "text": "Luyện đọc và viết trong phần Tiếng Anh của ứng dụng này."},
+        {"type": "note", "style": "info", "text": "Nếu bạn từ 50 tuổi trở lên và đã là thường trú nhân 20 năm, hoặc từ 55 tuổi trở lên và 15 năm, bạn không phải thi tiếng Anh (xem Miễn thi)."}
+      ]
+    },
+    {
+      "id": "civics_test",
+      "title": "Bài thi công dân",
+      "summary": "Phiên bản 2025 hay 2008? Có bao nhiêu câu hỏi và cần trả lời đúng bao nhiêu câu.",
+      "blocks": [
+        {"type": "h", "text": "Tôi thi phiên bản nào?"},
+        {"type": "list", "items": [
+          "Nộp Mẫu N-400 vào hoặc sau ngày 20 tháng 10 năm 2025: bài thi công dân 2025.",
+          "Nộp Mẫu N-400 trước ngày 20 tháng 10 năm 2025: bài thi công dân 2008."
+        ]},
+        {"type": "h", "text": "Bài thi công dân 2025"},
+        {"type": "list", "items": [
+          "128 câu hỏi có thể được hỏi.",
+          "Viên chức hỏi tối đa 20 câu bằng lời.",
+          "Bạn đậu khi trả lời đúng 12 câu. Viên chức ngừng hỏi khi bạn đạt 12 câu đúng hoặc 9 câu sai."
+        ]},
+        {"type": "h", "text": "Bài thi công dân 2008"},
+        {"type": "list", "items": [
+          "100 câu hỏi có thể được hỏi.",
+          "Viên chức hỏi tối đa 10 câu.",
+          "Bạn đậu khi trả lời đúng 6 câu. Viên chức ngừng hỏi khi bạn đạt 6 câu đúng hoặc 5 câu sai."
+        ]},
+        {"type": "h", "text": "Trường hợp đặc biệt 65/20"},
+        {"type": "p", "text": "Nếu bạn từ 65 tuổi trở lên và đã là thường trú nhân từ 20 năm trở lên, bạn chỉ cần học 20 câu hỏi có dấu sao (★). Viên chức hỏi 10 câu trong số đó và bạn cần trả lời đúng 6 câu. Bạn có thể thi công dân bằng ngôn ngữ của mình với thông dịch viên."},
+        {"type": "h", "text": "Nếu bạn không đậu"},
+        {"type": "p", "text": "Bạn có hai cơ hội để đậu bài thi tiếng Anh và bài thi công dân. Nếu bạn rớt phần nào, USCIS chỉ cho bạn thi lại phần đó, thường là 60 đến 90 ngày sau buổi phỏng vấn đầu tiên."},
+        {"type": "note", "style": "info", "text": "Một số câu trả lời thay đổi theo bầu cử và bổ nhiệm (Tổng Thống, Phó Tổng Thống, Chủ Tịch Hạ Viện, Chánh Án Tối Cao Pháp Viện, thượng nghị sĩ, dân biểu và thống đốc của bạn). Hãy trả lời bằng tên người đang giữ chức vụ vào ngày bạn phỏng vấn. Kiểm tra tại uscis.gov/citizenship/testupdates."}
+      ]
+    },
+    {
+      "id": "exemptions",
+      "title": "Miễn thi và hỗ trợ đặc biệt",
+      "summary": "Các trường hợp miễn thi theo tuổi (50/20, 55/15, 65/20), miễn thi vì khuyết tật và hỗ trợ đặc biệt.",
+      "blocks": [
+        {"type": "list", "items": [
+          "50/20: từ 50 tuổi trở lên khi nộp đơn và đã là thường trú nhân 20 năm — không thi tiếng Anh. Bạn vẫn thi công dân, bằng ngôn ngữ của mình với thông dịch viên.",
+          "55/15: từ 55 tuổi trở lên khi nộp đơn và đã là thường trú nhân 15 năm — không thi tiếng Anh. Bạn vẫn thi công dân, bằng ngôn ngữ của mình với thông dịch viên.",
+          "65/20: từ 65 tuổi trở lên và đã là thường trú nhân 20 năm — không thi tiếng Anh, và bài thi công dân đơn giản hơn, chỉ dùng 20 câu hỏi có dấu sao, bằng ngôn ngữ của bạn."
+        ]},
+        {"type": "note", "style": "info", "text": "Nếu dùng trường hợp miễn thi theo tuổi, bạn phải tự mang theo thông dịch viên thông thạo tiếng Anh và ngôn ngữ của bạn."},
+        {"type": "h", "text": "Miễn thi vì khuyết tật"},
+        {"type": "p", "text": "Nếu khuyết tật về thể chất hoặc phát triển, hoặc suy giảm tâm thần khiến bạn không thể học tiếng Anh hoặc môn công dân, bạn có thể xin miễn bằng Mẫu N-648, Chứng Nhận Y Tế để Được Miễn vì Khuyết Tật. Mẫu này phải do bác sĩ y khoa có giấy phép, bác sĩ nắn xương (osteopathy) hoặc nhà tâm lý học lâm sàng có giấy phép điền."},
+        {"type": "h", "text": "Hỗ trợ đặc biệt"},
+        {"type": "p", "text": "Nếu bạn bị khuyết tật, bạn có thể xin hỗ trợ đặc biệt (ví dụ thông dịch viên ngôn ngữ ký hiệu hoặc thêm thời gian) khi nộp đơn hoặc sau đó qua Trung Tâm Liên Lạc của USCIS."}
+      ]
+    },
+    {
+      "id": "after_interview",
+      "title": "Quyết định và lễ tuyên thệ",
+      "summary": "Chấp thuận, tạm hoãn hoặc từ chối — và những gì diễn ra tại lễ tuyên thệ.",
+      "blocks": [
+        {"type": "h", "text": "Các quyết định có thể có"},
+        {"type": "list", "items": [
+          "Chấp thuận: bạn đã đậu và USCIS chấp thuận đơn của bạn.",
+          "Tạm hoãn: USCIS cần thêm giấy tờ (bạn có thể nhận Mẫu N-14) hoặc bạn cần thi lại một phần.",
+          "Từ chối: USCIS thấy bạn không đủ điều kiện. Bạn có thể xin một buổi điều trần bằng Mẫu N-336 trong vòng 30 ngày kể từ ngày có quyết định (33 ngày nếu quyết định được gửi qua bưu điện)."
+        ]},
+        {"type": "h", "text": "Lễ tuyên thệ"},
+        {"type": "steps", "items": [
+          {"title": "Thông báo", "text": "Lễ tuyên thệ có thể diễn ra ngay trong ngày phỏng vấn, hoặc USCIS gửi cho bạn Mẫu N-445 ghi ngày và địa điểm."},
+          {"title": "Làm thủ tục", "text": "Trả lời các câu hỏi ở mặt sau Mẫu N-445 về những gì đã xảy ra kể từ buổi phỏng vấn (ví dụ các chuyến đi hoặc việc bị bắt)."},
+          {"title": "Nộp lại thẻ xanh", "text": "Bạn nộp lại Thẻ Thường Trú Nhân cho USCIS."},
+          {"title": "Đọc Lời Tuyên Thệ Trung Thành", "text": "Bạn trở thành công dân Hoa Kỳ khi đọc Lời Tuyên Thệ."},
+          {"title": "Nhận giấy chứng nhận", "text": "Kiểm tra Giấy Chứng Nhận Nhập Tịch xem có sai sót gì không trước khi ra về."}
+        ]},
+        {"type": "h", "text": "Lời Tuyên Thệ Trung Thành"},
+        {"type": "quote", "text": "Tôi xin long trọng tuyên thệ rằng tôi hoàn toàn và triệt để từ bỏ và khước từ mọi sự trung thành và tận tụy đối với bất kỳ ông hoàng, vị quân vương, quốc gia hay chủ quyền ngoại quốc nào mà trước đây tôi là thần dân hay công dân; rằng tôi sẽ ủng hộ và bảo vệ Hiến Pháp và luật pháp của Hợp Chúng Quốc Hoa Kỳ chống lại mọi kẻ thù trong và ngoài nước; rằng tôi sẽ thật lòng tin tưởng và trung thành với Hiến Pháp và luật pháp đó; rằng tôi sẽ cầm vũ khí vì Hoa Kỳ khi luật pháp đòi hỏi; rằng tôi sẽ làm công việc không tham chiến trong Quân Đội Hoa Kỳ khi luật pháp đòi hỏi; rằng tôi sẽ làm công việc quan trọng cho quốc gia dưới sự chỉ đạo dân sự khi luật pháp đòi hỏi; và rằng tôi tự nguyện nhận nghĩa vụ này, không có bất kỳ sự dè dặt nào trong lòng hay ý định lẩn tránh; xin Thượng Đế chứng giám."},
+        {"type": "h", "text": "Sau khi bạn trở thành công dân"},
+        {"type": "list", "items": [
+          "Xin hộ chiếu Hoa Kỳ.",
+          "Cập nhật hồ sơ với Sở An Sinh Xã Hội.",
+          "Ghi danh cử tri.",
+          "Cất giữ Giấy Chứng Nhận Nhập Tịch ở nơi an toàn."
+        ]}
+      ]
+    },
+    {
+      "id": "after_citizenship",
+      "title": "Sau khi bạn trở thành công dân",
+      "summary": "Hộ chiếu, An Sinh Xã Hội, bầu cử, con cái, gia đình và song tịch.",
+      "blocks": [
+        {"type": "h", "text": "Những bước đầu tiên"},
+        {"type": "steps", "items": [
+          {"title": "Xin hộ chiếu Hoa Kỳ", "text": "Với hộ chiếu đầu tiên, hãy nộp đơn trực tiếp bằng Mẫu DS-11 kèm bản chính Giấy Chứng Nhận Nhập Tịch. Bộ Ngoại Giao sẽ trả lại giấy chứng nhận."},
+          {"title": "Cập nhật hồ sơ An Sinh Xã Hội", "text": "Nếu bạn đã trả lời “Có” cho câu hỏi về An Sinh Xã Hội trong Mẫu N-400, SSA sẽ cập nhật hồ sơ và gửi cho bạn thẻ mới. Nếu không, hãy liên lạc với SSA để cập nhật tình trạng quốc tịch."},
+          {"title": "Ghi danh cử tri", "text": "Giờ đây bạn có thể bầu cử trong các cuộc bầu cử liên bang, tiểu bang và địa phương. Một số lễ tuyên thệ có chỗ ghi danh cử tri; bạn cũng có thể ghi danh tại vote.gov."},
+          {"title": "Cất giữ giấy chứng nhận an toàn", "text": "Cất Giấy Chứng Nhận Nhập Tịch ở nơi an toàn. Nếu bị mất, bị đánh cắp hoặc bị hư hỏng, bạn có thể xin cấp lại bằng Mẫu N-565."}
+        ]},
+        {"type": "h", "text": "Con cái của bạn"},
+        {"type": "p", "text": "Con dưới 18 tuổi là thường trú nhân và sống tại Hoa Kỳ dưới sự giám hộ hợp pháp và thực tế của bạn thường tự động trở thành công dân Hoa Kỳ khi bạn nhập tịch. Để có bằng chứng, hãy xin hộ chiếu Hoa Kỳ cho con hoặc nộp Mẫu N-600."},
+        {"type": "h", "text": "Gia đình của bạn"},
+        {"type": "p", "text": "Là công dân, bạn có thể nộp Mẫu I-130 bảo lãnh cho vợ/chồng, con cái, cha mẹ (nếu bạn từ 21 tuổi trở lên) và anh chị em (nếu bạn từ 21 tuổi trở lên). Vợ/chồng, con độc thân dưới 21 tuổi và cha mẹ của công dân trưởng thành không phải chờ số thị thực."},
+        {"type": "h", "text": "Đi lại và song tịch"},
+        {"type": "list", "items": [
+          "Dùng hộ chiếu Hoa Kỳ để rời khỏi và nhập cảnh vào Hoa Kỳ.",
+          "Luật Hoa Kỳ không buộc bạn phải từ bỏ quốc tịch khác. Quốc gia kia có thể có quy định riêng, và một số nước yêu cầu công dân của họ dùng hộ chiếu của nước đó khi nhập cảnh và xuất cảnh.",
+          "Trước khi đi, hãy đọc khuyến cáo du lịch cho nơi bạn đến trên travel.state.gov."
+        ]},
+        {"type": "note", "style": "info", "text": "Cập nhật hồ sơ với chủ lao động, ngân hàng và các cơ quan tiểu bang (ví dụ DMV) khi họ hỏi về tình trạng quốc tịch của bạn."}
+      ]
+    },
+    {
+      "id": "rights",
+      "title": "Quyền và trách nhiệm của công dân",
+      "summary": "Những gì thay đổi khi bạn trở thành công dân Hoa Kỳ.",
+      "blocks": [
+        {"type": "h", "text": "Quyền"},
+        {"type": "list", "items": [
+          "Tự do biểu đạt và tự do thờ phượng theo ý muốn.",
+          "Quyền được bồi thẩm đoàn xét xử nhanh chóng và công bằng.",
+          "Quyền bầu cử để chọn các viên chức dân cử.",
+          "Quyền nộp đơn vào các công việc liên bang đòi hỏi phải là công dân Hoa Kỳ.",
+          "Quyền ra tranh cử vào các chức vụ dân cử.",
+          "Hộ chiếu Hoa Kỳ và sự giúp đỡ của các đại sứ quán Hoa Kỳ ở nước ngoài.",
+          "Khả năng bảo lãnh thêm nhiều thân nhân sang định cư."
+        ]},
+        {"type": "h", "text": "Trách nhiệm"},
+        {"type": "list", "items": [
+          "Ủng hộ và bảo vệ Hiến Pháp.",
+          "Tìm hiểu các vấn đề trong cộng đồng và tham gia vào tiến trình dân chủ.",
+          "Tôn trọng và tuân theo luật pháp liên bang, tiểu bang và địa phương.",
+          "Tôn trọng quyền, niềm tin và ý kiến của người khác.",
+          "Đóng thuế thu nhập và các loại thuế khác một cách trung thực và đúng hạn.",
+          "Làm bồi thẩm khi được triệu tập.",
+          "Bảo vệ đất nước khi cần thiết."
+        ]}
+      ]
+    },
+    {
+      "id": "updates",
+      "title": "Thay đổi gần đây (2025–2026)",
+      "summary": "Những thay đổi chính sách quan trọng có thể ảnh hưởng đến đơn của bạn.",
+      "blocks": [
+        {"type": "note", "style": "warning", "text": "Chính sách di trú đang thay đổi nhanh và một số chính sách đang bị thách thức tại tòa án. Luôn kiểm tra uscis.gov và hỏi ý kiến luật sư hoặc đại diện được công nhận về trường hợp của riêng bạn."},
+        {"type": "h", "text": "Bài thi công dân 2025 mới — ngày 20 tháng 10 năm 2025"},
+        {"type": "p", "text": "Người nộp Mẫu N-400 vào hoặc sau ngày 20 tháng 10 năm 2025 sẽ thi bài thi công dân 2025: 20 câu hỏi từ danh sách 128 câu, và đúng 12 câu là đậu."},
+        {"type": "h", "text": "Xem xét tư cách đạo đức tốt — tháng 8 năm 2025"},
+        {"type": "p", "text": "Một bản ghi nhớ chính sách của USCIS (PM-602-0188, ngày 15 tháng 8 năm 2025) yêu cầu viên chức đánh giá tư cách đạo đức tốt một cách toàn diện, xem xét cả những đóng góp tích cực (như làm việc, đóng thuế và trách nhiệm gia đình) chứ không chỉ việc không có hành vi xấu. Bầu cử trái phép, ghi danh cử tri trái phép và tự nhận sai là công dân Hoa Kỳ khiến người nộp đơn bị loại."},
+        {"type": "h", "text": "Điều tra tại khu dân cư — 2025 và 2026"},
+        {"type": "p", "text": "USCIS đã tiếp tục điều tra tại khu dân cư từ năm 2025. Ngày 25 tháng 8 năm 2026, USCIS cập nhật Cẩm Nang Chính Sách để xác nhận việc này và kiểm tra kỹ hơn thông tin của người nộp đơn trong buổi phỏng vấn. Viên chức có thể liên lạc với hàng xóm, chủ lao động hoặc đồng nghiệp để xác nhận nơi bạn sống và làm việc."},
+        {"type": "h", "text": "Thanh toán lệ phí điện tử — ngày 28 tháng 10 năm 2025"},
+        {"type": "p", "text": "USCIS không còn nhận chi phiếu giấy hay lệnh chuyển tiền cho đơn nộp bằng giấy. Hãy thanh toán bằng thẻ (Mẫu G-1450) hoặc từ tài khoản ngân hàng tại Hoa Kỳ (Mẫu G-1650), trừ khi bạn được miễn (Mẫu G-1651)."},
+        {"type": "h", "text": "Tạm ngưng xét đơn của người từ một số quốc gia — tháng 12 năm 2025 đến tháng 8 năm 2026"},
+        {"type": "p", "text": "Trong tháng 12 năm 2025 và tháng 1 năm 2026, USCIS đã tạm ngưng xét các đơn xin quyền lợi đang chờ, kể cả đơn nhập tịch, của người đến từ các quốc gia có tên trong Tuyên Cáo của Tổng Thống số 10949 và các quốc gia được thêm sau đó (danh sách gồm Afghanistan và Iran). Ngày 5 tháng 6 năm 2026, một tòa án liên bang ở Rhode Island đã hủy bỏ các chính sách tạm ngưng này, và ngày 24 tháng 8 năm 2026, một tòa án liên bang ở California đã ra lệnh cho USCIS xét các đơn bị ảnh hưởng theo thủ tục bình thường. USCIS cho biết sẽ tuân theo các lệnh này trong khi xin xem xét lại. Nếu bạn đến từ một quốc gia bị ảnh hưởng, hãy kiểm tra các thông báo mới nhất của USCIS và tìm tư vấn pháp lý."},
+        {"type": "h", "text": "Đề xuất tăng lệ phí — ngày 23 tháng 6 năm 2026"},
+        {"type": "p", "text": "DHS đã đề xuất tăng lệ phí N-400 lên $1,330 (đơn giấy) và $1,280 (trên mạng) và bỏ việc miễn giảm lệ phí cho Mẫu N-400. Thời hạn góp ý đã kết thúc ngày 24 tháng 8 năm 2026. Việc tăng lệ phí chưa phải là quyết định cuối cùng; lệ phí hiện tại ($710 trên mạng, $760 đơn giấy) vẫn được áp dụng."}
+      ]
+    },
+    {
+      "id": "resources",
+      "title": "Nguồn chính thức và trợ giúp",
+      "summary": "Các liên kết đáng tin cậy, lớp học miễn phí và cách tránh lừa đảo di trú.",
+      "blocks": [
+        {"type": "link", "text": "Trung Tâm Tài Liệu về Quốc Tịch của USCIS", "url": "https://www.uscis.gov/citizenship"},
+        {"type": "link", "text": "Mẫu N-400, Đơn Xin Nhập Tịch", "url": "https://www.uscis.gov/n-400"},
+        {"type": "link", "text": "Cập nhật bài thi công dân (các viên chức hiện tại)", "url": "https://www.uscis.gov/citizenship/testupdates"},
+        {"type": "link", "text": "Kiểm tra tình trạng hồ sơ", "url": "https://egov.uscis.gov/"},
+        {"type": "link", "text": "Thời gian xử lý của USCIS", "url": "https://egov.uscis.gov/processing-times/"},
+        {"type": "link", "text": "Tài khoản USCIS trên mạng", "url": "https://myaccount.uscis.gov/"},
+        {"type": "link", "text": "Tìm lớp học quốc tịch gần bạn", "url": "https://www.uscis.gov/citizenship/findcitizenshiphelp"},
+        {"type": "link", "text": "Tìm trợ giúp pháp lý miễn phí hoặc giá thấp (các tổ chức được Bộ Tư pháp công nhận)", "url": "https://www.justice.gov/eoir/recognized-organizations-and-accredited-representatives-roster-state-and-city"},
+        {"type": "link", "text": "Tránh lừa đảo", "url": "https://www.uscis.gov/avoid-scams"},
+        {"type": "p", "text": "Trung Tâm Liên Lạc của USCIS: 800-375-5283 (TTY 800-767-1833)."},
+        {"type": "note", "style": "warning", "text": "Chỉ luật sư và đại diện được Bộ Tư pháp công nhận mới được tư vấn pháp lý cho bạn. “Notario” và các dịch vụ tư vấn di trú thì không được. Các mẫu đơn của USCIS được tải về miễn phí từ uscis.gov."}
+      ]
+    },
+    {
+      "id": "about",
+      "title": "Về ứng dụng và tuyên bố miễn trừ",
+      "summary": "Thông tin đến từ đâu, và ứng dụng này không phải là gì.",
+      "blocks": [
+        {"type": "note", "style": "warning", "text": "Ứng dụng này là một công cụ học tập độc lập. Ứng dụng không liên kết với, không được bảo trợ bởi, và không có liên hệ với Sở Di Trú và Nhập Tịch Hoa Kỳ (USCIS) hay bất kỳ cơ quan chính phủ nào. Ứng dụng không cung cấp tư vấn pháp lý."},
+        {"type": "p", "text": "Các câu hỏi và đáp án công dân, cùng từ vựng đọc và viết, lấy từ các ấn phẩm chính thức của USCIS. Phần giải thích, câu luyện tập, lựa chọn trắc nghiệm và bản dịch được viết riêng cho ứng dụng này để giúp bạn học; đó không phải là tài liệu chính thức của USCIS. Buổi phỏng vấn và mọi bài thi đều bằng tiếng Anh."},
+        {"type": "p", "text": "Thông tin về các viên chức hiện tại, lệ phí và chính sách đã được kiểm tra với các nguồn chính thức vào ngày ghi trong ứng dụng. Những thông tin này có thể thay đổi bất cứ lúc nào. Luôn xác nhận lại trên uscis.gov trước buổi phỏng vấn hoặc trước khi nộp đơn."},
+        {"type": "h", "text": "Quyền riêng tư"},
+        {"type": "p", "text": "Tiến độ học, các chuyến đi, các ngày của hồ sơ và cài đặt của bạn chỉ được lưu trên thiết bị này. Ứng dụng không có tài khoản và không theo dõi bạn. Các câu trả lời trong phần ôn Mẫu N-400 không được lưu. Micrô chỉ được dùng khi bạn chạm vào, và thông báo chỉ được gửi nếu bạn bật nhắc nhở hằng ngày."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,557 @@
+{
+  "updated": "2026-09-27",
+  "articles": [
+    {
+      "id": "overview",
+      "icon": "flag",
+      "title": "Your path to U.S. citizenship",
+      "summary": "What naturalization is and how the whole process works, in one page.",
+      "blocks": [
+        {"type": "p", "text": "Naturalization is the process a lawful permanent resident (green card holder) uses to become a U.S. citizen. You apply with Form N-400, Application for Naturalization, filed with U.S. Citizenship and Immigration Services (USCIS)."},
+        {"type": "h", "text": "The process at a glance"},
+        {"type": "steps", "items": [
+          {"title": "Check your eligibility", "text": "Most people need 5 years as a permanent resident (3 years if married to and living with a U.S. citizen)."},
+          {"title": "File Form N-400", "text": "File online or by mail and pay the fee. You will get a receipt notice."},
+          {"title": "Biometrics", "text": "USCIS may schedule an appointment to take your fingerprints, photo and signature."},
+          {"title": "Interview and tests", "text": "An officer reviews your application and gives the English test (speaking, reading, writing) and the civics test."},
+          {"title": "Decision", "text": "Your application is granted, continued (more evidence or a retest is needed) or denied."},
+          {"title": "Oath ceremony", "text": "You take the Oath of Allegiance and receive your Certificate of Naturalization. You are now a U.S. citizen."}
+        ]},
+        {"type": "h", "text": "How this app helps"},
+        {"type": "list", "items": [
+          "Study every official civics question (2025 and 2008 versions) with answers, explanations and translations.",
+          "Take realistic mock tests that follow the official rules (for example, 20 questions and 12 correct answers to pass the 2025 test).",
+          "Practice the English reading and writing tests with the official USCIS vocabulary.",
+          "Prepare for the interview questions and difficult N-400 words.",
+          "Learn the process: eligibility, fees, documents, the interview and the Oath ceremony."
+        ]},
+        {"type": "note", "style": "info", "text": "The naturalization interview and tests are in English. This app always shows the official English text, and the translation is there to help you understand it."}
+      ],
+      "sources": [
+        {"name": "USCIS — Citizenship Resource Center", "url": "https://www.uscis.gov/citizenship"},
+        {"name": "USCIS — 10 Steps to Naturalization", "url": "https://www.uscis.gov/citizenship/learn-about-citizenship/10-steps-to-naturalization"}
+      ]
+    },
+    {
+      "id": "eligibility",
+      "icon": "check",
+      "title": "Who can apply (eligibility)",
+      "summary": "General requirements, the 3-year rule for spouses of U.S. citizens, and early filing.",
+      "blocks": [
+        {"type": "tool", "tool": "eligibility", "text": "Use the eligibility calculator to find your earliest filing date."},
+        {"type": "h", "text": "General requirements (5-year rule)"},
+        {"type": "list", "items": [
+          "You are at least 18 years old when you file.",
+          "You have been a lawful permanent resident (green card holder) for at least 5 years.",
+          "Continuous residence: you lived in the U.S. as a permanent resident for the 5 years right before filing, without long trips abroad.",
+          "Physical presence: you were physically in the U.S. for at least 30 months (913 days) of those 5 years.",
+          "You lived for at least 3 months in the state or USCIS district where you apply.",
+          "You live continuously in the U.S. from the date you file until you become a citizen.",
+          "You can read, write and speak basic English and know U.S. history and government (civics), unless an exception applies.",
+          "You have good moral character and are attached to the principles of the U.S. Constitution."
+        ]},
+        {"type": "h", "text": "Spouses of U.S. citizens (3-year rule)"},
+        {"type": "list", "items": [
+          "You have been a permanent resident for at least 3 years.",
+          "You have been married to and living with the same U.S. citizen spouse for the last 3 years, and your spouse has been a citizen during that whole time.",
+          "Continuous residence for 3 years and physical presence of at least 18 months (548 days).",
+          "All other requirements (age, 3 months in the state or district, English, civics, good moral character) also apply."
+        ]},
+        {"type": "h", "text": "Trips outside the United States"},
+        {"type": "list", "items": [
+          "A trip of more than 6 months but less than 1 year may break your continuous residence. You can show evidence that you kept strong ties to the U.S. (job, home, taxes, family).",
+          "A trip of 1 year or more usually breaks continuous residence.",
+          "Short trips do not break continuous residence, but every day outside the U.S. counts against physical presence."
+        ]},
+        {"type": "tool", "tool": "trips", "text": "Count your days abroad with the trips calculator"},
+        {"type": "h", "text": "Early filing"},
+        {"type": "p", "text": "You may file up to 90 days before you complete the 5-year (or 3-year) permanent residence requirement. All other requirements, such as 3 months in your state or district, must already be met on the day you file."},
+        {"type": "h", "text": "Other paths"},
+        {"type": "list", "items": [
+          "Military service members and veterans may qualify under special rules (INA 328 and 329), sometimes without a residence requirement and without a fee.",
+          "Children under 18 who are permanent residents and live with a U.S. citizen parent may already be citizens automatically. They use Form N-600 to get a Certificate of Citizenship, not Form N-400."
+        ]},
+        {"type": "note", "style": "warning", "text": "If you have ever been arrested, have spent long periods abroad, have a pending immigration issue, or are unsure, talk to an immigration attorney or a DOJ-accredited representative before you file."}
+      ],
+      "sources": [
+        {"name": "USCIS Policy Manual — Vol. 12, Part D", "url": "https://www.uscis.gov/policy-manual/volume-12-part-d-chapter-1"},
+        {"name": "USCIS Policy Manual — Place of Residence and Early Filing", "url": "https://www.uscis.gov/policy-manual/volume-12-part-d-chapter-6"},
+        {"name": "USCIS — Citizenship for Military Members and Veterans", "url": "https://www.uscis.gov/military/naturalization-through-military-service"}
+      ]
+    },
+    {
+      "id": "moral_character",
+      "icon": "balance",
+      "title": "Good moral character",
+      "summary": "What USCIS looks at and what can cause problems: arrests, taxes, child support, voting, traffic tickets and Selective Service.",
+      "blocks": [
+        {"type": "p", "text": "You must show good moral character for the 5 years before you file (3 years if you file as the spouse of a U.S. citizen) and until you take the Oath. USCIS also looks at your positive contributions, such as work, paying taxes and caring for your family."},
+        {"type": "h", "text": "Things that can cause problems"},
+        {"type": "list", "items": [
+          "Arrests, citations and crimes anywhere in the world. Report all of them on Form N-400, even if the case was dismissed or expunged, or happened before you were 18.",
+          "Being on probation, parole or a suspended sentence. USCIS will not approve your application until it has ended.",
+          "Not filing tax returns, or owing taxes. If you owe taxes, show an agreement with the tax office and proof that you pay as agreed.",
+          "Not supporting your children who live apart from you, or not paying court-ordered support.",
+          "Claiming to be a U.S. citizen, or registering to vote or voting when you were not allowed to.",
+          "Giving false information to get an immigration benefit, or lying to an officer."
+        ]},
+        {"type": "h", "text": "Traffic tickets"},
+        {"type": "p", "text": "You do not need to send documents for a traffic incident unless it involved alcohol or drugs, led to an arrest, or seriously injured another person. Still answer every question truthfully."},
+        {"type": "h", "text": "Selective Service (men)"},
+        {"type": "list", "items": [
+          "Almost all men who live in the United States, including permanent residents, must register with the Selective Service between ages 18 and 26.",
+          "Under 26: register before you apply.",
+          "Age 26 to 31 (26 to 29 if you apply as the spouse of a U.S. citizen) and you did not register: explain why in your application and send a Status Information Letter from the Selective Service.",
+          "31 or older (29 or older for spouses of U.S. citizens): you do not need to explain or send the letter."
+        ]},
+        {"type": "tool", "tool": "n400", "text": "Practice every yes/no question of Form N-400, Part 9"},
+        {"type": "note", "style": "warning", "text": "Some crimes permanently prevent naturalization, and some can lead to removal from the United States. If you have ever been arrested, charged or convicted, talk to an immigration attorney or a DOJ-accredited representative before you file."}
+      ]
+    },
+    {
+      "id": "steps",
+      "icon": "list",
+      "title": "10 steps to naturalization",
+      "summary": "The official USCIS steps from checking eligibility to your Certificate of Naturalization.",
+      "blocks": [
+        {"type": "steps", "items": [
+          {"title": "1. Find out if you are already a U.S. citizen", "text": "Some people became citizens automatically at birth or through their parents. If so, you do not need Form N-400."},
+          {"title": "2. Find out if you are eligible", "text": "Check the requirements for age, permanent residence, continuous residence, physical presence and good moral character."},
+          {"title": "3. Prepare Form N-400", "text": "Complete the application and gather your documents. Photos are needed only if you live outside the United States."},
+          {"title": "4. Submit Form N-400 and pay the fee", "text": "File online in a USCIS online account or by mail. USCIS sends a receipt notice and you can check your case status online."},
+          {"title": "5. Go to your biometrics appointment, if scheduled", "text": "USCIS sends a notice with the date, time and place. Your fingerprints, photo and signature are taken."},
+          {"title": "6. Complete the interview", "text": "Go to the USCIS office at the scheduled time. The officer reviews your application and gives the English and civics tests."},
+          {"title": "7. Receive a decision", "text": "Granted, continued (more evidence or another test is needed) or denied."},
+          {"title": "8. Receive a notice to take the Oath of Allegiance", "text": "Sometimes the ceremony is the same day as the interview. Otherwise USCIS mails you a notice (Form N-445) with the date."},
+          {"title": "9. Take the Oath of Allegiance", "text": "Check in, return your green card, answer the questions on Form N-445, take the Oath and receive your Certificate of Naturalization."},
+          {"title": "10. Understand U.S. citizenship", "text": "Learn about your new rights and responsibilities, like voting and serving on a jury."}
+        ]}
+      ],
+      "sources": [
+        {"name": "USCIS — 10 Steps to Naturalization", "url": "https://www.uscis.gov/citizenship/learn-about-citizenship/10-steps-to-naturalization"}
+      ]
+    },
+    {
+      "id": "fees",
+      "icon": "payments",
+      "title": "Fees and payment",
+      "summary": "Current N-400 fees, reduced fee, fee waiver and accepted payment methods.",
+      "blocks": [
+        {"type": "h", "text": "Current Form N-400 fees"},
+        {"type": "list", "items": [
+          "Online filing: $710",
+          "Paper filing: $760",
+          "Reduced fee: $380, if your household income is at or below 400% of the Federal Poverty Guidelines (request it on the paper N-400 with proof of income).",
+          "Fee waiver: $0, if you qualify (for example, income at or below 150% of the Federal Poverty Guidelines, means-tested benefits, or financial hardship). Use Form I-912.",
+          "Most applicants filing based on military service do not pay a fee."
+        ]},
+        {"type": "p", "text": "The biometrics fee is included in the N-400 fee. Reduced-fee and fee-waiver requests cannot be filed online; they must be filed on paper."},
+        {"type": "h", "text": "How to pay"},
+        {"type": "list", "items": [
+          "Online filing: pay in your USCIS online account.",
+          "Paper filing: pay with a credit, debit or prepaid card using Form G-1450, or directly from a U.S. bank account using Form G-1650 (ACH).",
+          "Since October 28, 2025, USCIS no longer accepts personal checks, money orders or cashier's checks for paper filings, unless you qualify for an exemption (Form G-1651)."
+        ]},
+        {"type": "note", "style": "warning", "text": "Proposed fee increase: on June 23, 2026, DHS proposed raising the N-400 fee to $1,330 (paper) and $1,280 (online) and ending fee waivers and reduced fees for Form N-400. The comment period closed on August 24, 2026. This is a proposal, not a final rule. Current fees stay in effect until a final rule takes effect. Always check the fee on uscis.gov before you file."},
+        {"type": "link", "text": "USCIS Fee Calculator", "url": "https://www.uscis.gov/feecalculator"}
+      ],
+      "sources": [
+        {"name": "USCIS — Form N-400", "url": "https://www.uscis.gov/n-400"},
+        {"name": "USCIS — Filing Fees", "url": "https://www.uscis.gov/forms/filing-fees"},
+        {"name": "USCIS — Form G-1055 Fee Schedule", "url": "https://www.uscis.gov/g-1055"},
+        {"name": "Federal Register — Naturalization Application Fee Adjustments (proposed rule, June 23, 2026)", "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12542/naturalization-application-fee-adjustments"}
+      ]
+    },
+    {
+      "id": "documents",
+      "icon": "folder",
+      "title": "Document checklist",
+      "summary": "What to send with Form N-400 and what to bring to your interview. Tick items as you go.",
+      "blocks": [
+        {"type": "h", "text": "Everyone"},
+        {"type": "checklist", "items": [
+          {"id": "doc_gc", "text": "Copy of both sides of your green card (Permanent Resident Card). If lost, a copy of your Form I-90 receipt."},
+          {"id": "doc_fee", "text": "Filing fee (card with Form G-1450 or bank account with Form G-1650), or a fee waiver / reduced fee request."},
+          {"id": "doc_photos", "text": "Two passport-style photos, only if you live outside the United States."},
+          {"id": "doc_trips", "text": "A list of all your trips outside the U.S. in the last 5 years (dates and countries)."},
+          {"id": "doc_addresses", "text": "Your addresses and employers (or schools) for the last 5 years."}
+        ]},
+        {"type": "h", "text": "If it applies to you"},
+        {"type": "checklist", "items": [
+          {"id": "doc_g28", "text": "Form G-28, if an attorney or accredited representative helps you."},
+          {"id": "doc_namechange", "text": "Documents that legally changed your name (marriage certificate, divorce decree or court order)."},
+          {"id": "doc_spouse_citizen", "text": "Married to a U.S. citizen (3-year rule): proof your spouse has been a citizen for 3 years (birth certificate, naturalization certificate, certificate of citizenship, passport or FS-240)."},
+          {"id": "doc_marriage", "text": "Your current marriage certificate and proof that all earlier marriages (yours and your spouse's) ended."},
+          {"id": "doc_joint", "text": "Proof of your marriage life together: joint tax returns, bank accounts, lease or mortgage, children's birth certificates, or IRS tax transcripts for the last 3 years."},
+          {"id": "doc_longtrip", "text": "Any trip of 6 months or more: proof you kept ties to the U.S. (IRS tax transcripts, pay stubs, rent or mortgage payments)."},
+          {"id": "doc_support", "text": "Children or a spouse who do not live with you: court orders for support and proof you paid it."},
+          {"id": "doc_arrest", "text": "Any arrest, citation or detention: certified court records and final dispositions for each incident, and proof you completed any sentence."},
+          {"id": "doc_taxes", "text": "Overdue taxes: a signed agreement with the IRS or state tax office and proof of your payment plan status."},
+          {"id": "doc_n648", "text": "Disability exception: original Form N-648 completed by a licensed doctor or clinical psychologist."},
+          {"id": "doc_sss", "text": "Men who did not register for Selective Service between ages 18 and 26: a Status Information Letter from the Selective Service."},
+          {"id": "doc_military", "text": "Military-based applications: Form N-426, Request for Certification of Military or Naval Service."}
+        ]},
+        {"type": "h", "text": "Bring to your interview"},
+        {"type": "checklist", "items": [
+          {"id": "int_notice", "text": "Your interview appointment notice."},
+          {"id": "int_gc", "text": "Your original green card."},
+          {"id": "int_id", "text": "A state-issued ID or driver's license."},
+          {"id": "int_passports", "text": "All valid and expired passports and travel documents you used since becoming a permanent resident."},
+          {"id": "int_originals", "text": "Original documents for every copy you sent, and any documents the notice asks for."}
+        ]},
+        {"type": "note", "style": "info", "text": "Send copies unless USCIS asks for originals. Documents in another language need a full English translation with a translator's certification."}
+      ],
+      "sources": [
+        {"name": "USCIS — Form N-400 and instructions", "url": "https://www.uscis.gov/n-400"},
+        {"name": "USCIS — Document Checklist (M-477)", "url": "https://www.uscis.gov/sites/default/files/document/guides/M-477.pdf"}
+      ]
+    },
+    {
+      "id": "notices",
+      "icon": "mail",
+      "title": "Letters and notices from USCIS",
+      "summary": "What each notice means and what to do: receipt, biometrics, interview, results and the Oath ceremony.",
+      "blocks": [
+        {"type": "p", "text": "USCIS sends most notices by mail and also shows them in your USCIS online account. Read every notice carefully and keep all of them."},
+        {"type": "h", "text": "Form I-797C, Notice of Action"},
+        {"type": "list", "items": [
+          "Receipt notice: confirms that USCIS received your Form N-400 and fee. It shows your receipt number (3 letters and 10 digits). Use it to check your case status online. Together with your green card, it also extends an expiring card for 24 months.",
+          "Biometrics appointment notice: the date, time and place (an Application Support Center) to give your fingerprints, photo and signature. Bring the notice and your green card. USCIS may reuse fingerprints you gave before; then you may not get this appointment.",
+          "Interview appointment notice: the date, time and USCIS field office of your interview, and the documents to bring. Arrive early."
+        ]},
+        {"type": "note", "style": "warning", "text": "If you cannot go to an appointment, follow the instructions on the notice to reschedule. If you miss your interview and do not contact USCIS within 30 days, USCIS may close your application. You can ask to reopen it within one year."},
+        {"type": "h", "text": "Form N-14, Request for Evidence"},
+        {"type": "p", "text": "USCIS needs more documents or information to decide. Send exactly what it asks for before the deadline: usually 30 days (plus 3 days if the request was mailed)."},
+        {"type": "h", "text": "Form N-652, Notice of Examination Results"},
+        {"type": "list", "items": [
+          "The officer gives you this paper at the end of your interview. It shows whether you passed the English and civics tests.",
+          "Granted: USCIS approves your application. You may take the Oath the same day or get a Form N-445 by mail.",
+          "Continued: USCIS needs more documents, or you must retake the part of the test you did not pass. The retest is 60 to 90 days after the first interview.",
+          "Denied: USCIS explains the reasons in a written decision."
+        ]},
+        {"type": "h", "text": "Form N-445, Notice of Naturalization Oath Ceremony"},
+        {"type": "p", "text": "The date, time and place of your Oath ceremony. Answer the questions on the notice about what happened since your interview (for example trips, arrests or marriage) and bring it with your green card. If you cannot attend, follow the instructions on the notice."},
+        {"type": "h", "text": "If your application is denied"},
+        {"type": "p", "text": "You can ask for a hearing with an immigration officer with Form N-336 within 30 days after you receive the decision (33 days if it was mailed). Talk to an immigration attorney or accredited representative."},
+        {"type": "note", "style": "warning", "text": "Watch for scams. USCIS will not ask you to pay by phone, email, gift cards or wire transfer. Check any notice in your USCIS online account or with the USCIS Contact Center."}
+      ],
+      "sources": [
+        {"name": "USCIS — Form I-797: Types and Functions", "url": "https://www.uscis.gov/forms/filing-guidance/form-i-797-types-and-functions"},
+        {"name": "USCIS Policy Manual — Results of the Naturalization Examination", "url": "https://www.uscis.gov/policy-manual/volume-12-part-b-chapter-4"},
+        {"name": "USCIS — Naturalization Ceremonies", "url": "https://www.uscis.gov/citizenship/learn-about-citizenship/naturalization-ceremonies"},
+        {"name": "USCIS — Avoid Scams", "url": "https://www.uscis.gov/avoid-scams"}
+      ]
+    },
+    {
+      "id": "pending",
+      "icon": "hourglass",
+      "title": "While your application is pending",
+      "summary": "Moving, an expiring green card, travel, a new name, and what to do if your case takes long.",
+      "blocks": [
+        {"type": "p", "text": "After you file, USCIS sends a receipt notice. Keep it with your green card, and use the receipt number to check your case status online. How long the process takes depends on your USCIS field office."},
+        {"type": "link", "text": "USCIS processing times", "url": "https://egov.uscis.gov/processing-times/"},
+        {"type": "h", "text": "If you move"},
+        {"type": "list", "items": [
+          "Report your new address to USCIS within 10 days of moving. Use your USCIS online account (also if you filed on paper) or Form AR-11.",
+          "Changing your address with the U.S. Postal Service does not change it with USCIS, and the Postal Service will not forward mail from USCIS.",
+          "If you move to another state or area, your case may move to a different USCIS office, which can take longer."
+        ]},
+        {"type": "link", "text": "Change your address with USCIS", "url": "https://www.uscis.gov/addresschange"},
+        {"type": "h", "text": "If your green card expires"},
+        {"type": "p", "text": "If you filed Form N-400 on or after December 12, 2022, your receipt notice extends your green card for 24 months from the date on the card. Carry the notice with your card. In most cases you do not need to file Form I-90."},
+        {"type": "h", "text": "Travel"},
+        {"type": "list", "items": [
+          "You may travel, but be back for your biometrics appointment, interview and Oath ceremony. Missing them can delay or close your case.",
+          "Keep your home in the United States. You must live here continuously from the day you file until you take the Oath, and long trips can break your continuous residence.",
+          "Tell the officer about every trip you took after you filed."
+        ]},
+        {"type": "h", "text": "Keep your application up to date"},
+        {"type": "list", "items": [
+          "If you legally change your name, send USCIS the documents and bring them to your interview. You can also ask to change your name as part of naturalization.",
+          "At the interview, tell the officer about anything that changed after you filed: address, job, marriage or divorce, trips, arrests or citations.",
+          "Keep filing tax returns and paying any child support. Good moral character counts until the Oath."
+        ]},
+        {"type": "h", "text": "If your case takes longer than usual"},
+        {"type": "p", "text": "If your case is outside the normal processing time, submit a case inquiry online or call the USCIS Contact Center at 800-375-5283. You can ask USCIS to expedite a case only in urgent situations, such as severe financial loss or an urgent humanitarian reason."},
+        {"type": "tool", "tool": "case", "text": "Keep your case dates and see the countdown in My case"},
+        {"type": "note", "style": "warning", "text": "Nobody can make USCIS decide faster for a fee. Be careful with anyone who promises to speed up your case."}
+      ]
+    },
+    {
+      "id": "interview",
+      "icon": "record_voice_over",
+      "title": "The naturalization interview",
+      "summary": "What happens on interview day and how to prepare.",
+      "blocks": [
+        {"type": "h", "text": "What happens"},
+        {"type": "steps", "items": [
+          {"title": "Arrive early and check in", "text": "Bring your appointment notice, green card, ID and passports. Security screening is required."},
+          {"title": "Take the oath to tell the truth", "text": "The officer asks you to stand, raise your right hand and promise to tell the truth."},
+          {"title": "Review of your N-400", "text": "The officer asks about your application: your name, addresses, work, trips, family and the yes/no questions. Your answers also count as the English speaking test."},
+          {"title": "Reading and writing tests", "text": "You read one of up to three sentences aloud, and you write one of up to three sentences that the officer reads to you."},
+          {"title": "Civics test", "text": "The officer asks civics questions out loud. For the 2025 test: up to 20 questions, you need 12 correct."},
+          {"title": "Decision notice", "text": "At the end you usually receive Form N-652 with the result of your interview."}
+        ]},
+        {"type": "tool", "tool": "n400", "text": "Practice every yes/no question of Form N-400, Part 9"},
+        {"type": "h", "text": "Tips"},
+        {"type": "list", "items": [
+          "Read your whole N-400 again before the interview. Your answers must match it.",
+          "Always tell the truth. If you do not understand, say: “Could you please repeat the question?”",
+          "Learn the meaning of difficult N-400 words such as “habitual drunkard” or “totalitarian party” (see the Interview section of this app).",
+          "Know the current answers for your state: senators, representative, governor and capital.",
+          "Dress neatly, be polite and speak clearly.",
+          "If you have ever been arrested or cited, bring certified court documents, even if the case was dismissed.",
+          "You may bring your attorney or accredited representative (with Form G-28). Bring an interpreter only if you qualify for an age or disability exception."
+        ]},
+        {"type": "note", "style": "warning", "text": "USCIS announced in 2025 that it is resuming neighborhood investigations and evaluating good moral character more holistically. Be ready to show positive ties to your community, such as work, taxes and family responsibilities."}
+      ],
+      "sources": [
+        {"name": "USCIS — The Naturalization Interview and Test", "url": "https://www.uscis.gov/citizenship/learn-about-citizenship/the-naturalization-interview-and-test"}
+      ]
+    },
+    {
+      "id": "english_test",
+      "icon": "translate",
+      "title": "The English test",
+      "summary": "Speaking, reading and writing: how each part works and how to pass.",
+      "blocks": [
+        {"type": "list", "items": [
+          "Speaking: the officer decides whether you can speak and understand English during the interview about your application.",
+          "Reading: you must read one of three sentences correctly out loud.",
+          "Writing: you must write one of three sentences correctly. The officer reads the sentence and you write it."
+        ]},
+        {"type": "p", "text": "The reading and writing sentences use words from the official USCIS reading and writing vocabulary lists. Small mistakes in spelling, capitalization or punctuation are usually accepted if the meaning is clear, but practice writing every word correctly."},
+        {"type": "tool", "tool": "english", "text": "Practice reading and writing in the English section of this app."},
+        {"type": "note", "style": "info", "text": "If you are 50 or older with 20 years as a permanent resident, or 55 or older with 15 years, you do not take the English test (see Exemptions)."}
+      ],
+      "sources": [
+        {"name": "USCIS — Study for the Test", "url": "https://www.uscis.gov/citizenship/find-study-materials-and-resources/study-for-the-test"}
+      ]
+    },
+    {
+      "id": "civics_test",
+      "icon": "school",
+      "title": "The civics test",
+      "summary": "2025 or 2008 version? How many questions, and how many correct answers you need.",
+      "blocks": [
+        {"type": "h", "text": "Which version do I take?"},
+        {"type": "list", "items": [
+          "Filed Form N-400 on or after October 20, 2025: the 2025 civics test.",
+          "Filed Form N-400 before October 20, 2025: the 2008 civics test."
+        ]},
+        {"type": "h", "text": "2025 civics test"},
+        {"type": "list", "items": [
+          "128 possible questions.",
+          "The officer asks up to 20 questions out loud.",
+          "You pass when you answer 12 correctly. The officer stops asking when you reach 12 correct or 9 incorrect answers."
+        ]},
+        {"type": "h", "text": "2008 civics test"},
+        {"type": "list", "items": [
+          "100 possible questions.",
+          "The officer asks up to 10 questions.",
+          "You pass when you answer 6 correctly. The officer stops when you reach 6 correct or 5 incorrect answers."
+        ]},
+        {"type": "h", "text": "65/20 special consideration"},
+        {"type": "p", "text": "If you are 65 or older and have been a permanent resident for 20 years or more, you study only the 20 questions marked with a star (★). The officer asks 10 of them and you need 6 correct. You may take the civics test in your language with an interpreter."},
+        {"type": "h", "text": "If you do not pass"},
+        {"type": "p", "text": "You get two chances to pass the English and civics tests. If you fail any part, USCIS retests you only on that part, usually 60 to 90 days after the first interview."},
+        {"type": "note", "style": "info", "text": "Some answers change with elections and appointments (President, Vice President, Speaker of the House, Chief Justice, your senators, representative and governor). Answer with the person serving on the day of your interview. Check uscis.gov/citizenship/testupdates."}
+      ],
+      "sources": [
+        {"name": "USCIS — 2025 Civics Test", "url": "https://www.uscis.gov/citizenship-resource-center/naturalization-test-and-study-resources/2025-civics-test"},
+        {"name": "USCIS — 128 Civics Questions and Answers (2025)", "url": "https://www.uscis.gov/sites/default/files/document/questions-and-answers/2025-Civics-Test-128-Questions-and-Answers.pdf"},
+        {"name": "USCIS — Civics Test Updates", "url": "https://www.uscis.gov/citizenship/testupdates"}
+      ]
+    },
+    {
+      "id": "exemptions",
+      "icon": "accessibility",
+      "title": "Exemptions and accommodations",
+      "summary": "Age-based exceptions (50/20, 55/15, 65/20), the disability exception and accommodations.",
+      "blocks": [
+        {"type": "list", "items": [
+          "50/20: age 50 or older when you file and a permanent resident for 20 years — no English test. You still take the civics test, in your language with an interpreter.",
+          "55/15: age 55 or older when you file and a permanent resident for 15 years — no English test. You still take the civics test, in your language with an interpreter.",
+          "65/20: age 65 or older and a permanent resident for 20 years — no English test, and a simpler civics test using only the 20 starred questions, in your language."
+        ]},
+        {"type": "note", "style": "info", "text": "If you use an age exception, you must bring your own interpreter who is fluent in English and your language."},
+        {"type": "h", "text": "Medical disability exception"},
+        {"type": "p", "text": "If a physical or developmental disability or a mental impairment prevents you from learning English or civics, you may ask for an exception with Form N-648, Medical Certification for Disability Exceptions. A licensed medical doctor, doctor of osteopathy or licensed clinical psychologist must complete it."},
+        {"type": "h", "text": "Accommodations"},
+        {"type": "p", "text": "If you have a disability, you can ask for an accommodation (for example, a sign language interpreter or extra time) when you file or later through the USCIS Contact Center."}
+      ],
+      "sources": [
+        {"name": "USCIS — Exceptions and Accommodations", "url": "https://www.uscis.gov/citizenship/exceptions-and-accommodations"},
+        {"name": "USCIS — Form N-648", "url": "https://www.uscis.gov/n-648"}
+      ]
+    },
+    {
+      "id": "after_interview",
+      "icon": "celebration",
+      "title": "Decision and Oath ceremony",
+      "summary": "Granted, continued or denied — and what happens at the Oath ceremony.",
+      "blocks": [
+        {"type": "h", "text": "Possible decisions"},
+        {"type": "list", "items": [
+          "Granted: you passed and USCIS approves your application.",
+          "Continued: USCIS needs more documents (you may receive Form N-14) or you need to retake part of the test.",
+          "Denied: USCIS finds you are not eligible. You can ask for a hearing with Form N-336 within 30 days of the decision (33 days if the decision was mailed)."
+        ]},
+        {"type": "h", "text": "The Oath ceremony"},
+        {"type": "steps", "items": [
+          {"title": "Notice", "text": "The ceremony may be on the same day as your interview, or USCIS mails you Form N-445 with the date and place."},
+          {"title": "Check in", "text": "Answer the questions on the back of Form N-445 about what happened since your interview (for example, trips or arrests)."},
+          {"title": "Return your green card", "text": "You give your Permanent Resident Card to USCIS."},
+          {"title": "Take the Oath of Allegiance", "text": "You become a U.S. citizen when you take the Oath."},
+          {"title": "Receive your certificate", "text": "Check your Certificate of Naturalization for mistakes before you leave."}
+        ]},
+        {"type": "h", "text": "The Oath of Allegiance"},
+        {"type": "quote", "text": "I hereby declare, on oath, that I absolutely and entirely renounce and abjure all allegiance and fidelity to any foreign prince, potentate, state, or sovereignty, of whom or which I have heretofore been a subject or citizen; that I will support and defend the Constitution and laws of the United States of America against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I will bear arms on behalf of the United States when required by the law; that I will perform noncombatant service in the Armed Forces of the United States when required by the law; that I will perform work of national importance under civilian direction when required by the law; and that I take this obligation freely, without any mental reservation or purpose of evasion; so help me God."},
+        {"type": "h", "text": "After you become a citizen"},
+        {"type": "list", "items": [
+          "Apply for a U.S. passport.",
+          "Update your record with the Social Security Administration.",
+          "Register to vote.",
+          "Keep your Certificate of Naturalization in a safe place."
+        ]}
+      ],
+      "sources": [
+        {"name": "USCIS — Naturalization Ceremonies", "url": "https://www.uscis.gov/citizenship/learn-about-citizenship/naturalization-ceremonies"},
+        {"name": "USCIS — Form N-336", "url": "https://www.uscis.gov/n-336"},
+        {"name": "8 CFR 337.1 — Oath of allegiance", "url": "https://www.ecfr.gov/current/title-8/chapter-I/subchapter-C/part-337/section-337.1"}
+      ]
+    },
+    {
+      "id": "after_citizenship",
+      "icon": "verified",
+      "title": "After you become a citizen",
+      "summary": "Passport, Social Security, voting, your children, your family and dual citizenship.",
+      "blocks": [
+        {"type": "h", "text": "First steps"},
+        {"type": "steps", "items": [
+          {"title": "Apply for a U.S. passport", "text": "For your first passport, apply in person with Form DS-11 and your original Certificate of Naturalization. The State Department returns the certificate."},
+          {"title": "Update your Social Security record", "text": "If you answered “Yes” to the Social Security question on Form N-400, SSA updates your record and sends you a new card. If not, contact SSA to update your citizenship status."},
+          {"title": "Register to vote", "text": "You can now vote in federal, state and local elections. Some Oath ceremonies offer voter registration; you can also register at vote.gov."},
+          {"title": "Keep your certificate safe", "text": "Store your Certificate of Naturalization in a safe place. If it is lost, stolen or damaged, you can replace it with Form N-565."}
+        ]},
+        {"type": "h", "text": "Your children"},
+        {"type": "p", "text": "A child under 18 who is a permanent resident and lives in the United States in your legal and physical custody usually becomes a U.S. citizen automatically when you naturalize. To get proof, apply for a U.S. passport for the child or file Form N-600."},
+        {"type": "h", "text": "Your family"},
+        {"type": "p", "text": "As a citizen you can file Form I-130 for your spouse, children, parents (if you are 21 or older) and brothers and sisters (if you are 21 or older). Spouses, unmarried children under 21 and parents of adult citizens do not wait for a visa number."},
+        {"type": "h", "text": "Travel and dual citizenship"},
+        {"type": "list", "items": [
+          "Use your U.S. passport to leave and enter the United States.",
+          "U.S. law does not require you to give up your other citizenship. Your other country may have its own rules, and some countries require their citizens to use that country's passport to enter and leave.",
+          "Before traveling, read the travel advisory for your destination on travel.state.gov."
+        ]},
+        {"type": "note", "style": "info", "text": "Update your records with your employer, bank and state agencies (for example the DMV) when they ask for your citizenship status."}
+      ],
+      "sources": [
+        {"name": "U.S. Department of State — Apply for your adult passport", "url": "https://travel.state.gov/en/passports/apply/adults.html"},
+        {"name": "U.S. Department of State — Dual nationality", "url": "https://travel.state.gov/en/international-travel/planning/personal-needs/dual-nationality.html"},
+        {"name": "Vote.gov", "url": "https://vote.gov"},
+        {"name": "USCIS — Form N-600, Certificate of Citizenship", "url": "https://www.uscis.gov/n-600"},
+        {"name": "USCIS — Form N-565, Replacement document", "url": "https://www.uscis.gov/n-565"},
+        {"name": "USCIS — Form I-130, Petition for Alien Relative", "url": "https://www.uscis.gov/i-130"}
+      ]
+    },
+    {
+      "id": "rights",
+      "icon": "gavel",
+      "title": "Rights and responsibilities of citizens",
+      "summary": "What changes when you become a U.S. citizen.",
+      "blocks": [
+        {"type": "h", "text": "Rights"},
+        {"type": "list", "items": [
+          "Freedom to express yourself and to worship as you wish.",
+          "The right to a prompt, fair trial by jury.",
+          "The right to vote in elections for public officials.",
+          "The right to apply for federal jobs that require U.S. citizenship.",
+          "The right to run for elected office.",
+          "A U.S. passport and help from U.S. embassies abroad.",
+          "The ability to sponsor more family members to immigrate."
+        ]},
+        {"type": "h", "text": "Responsibilities"},
+        {"type": "list", "items": [
+          "Support and defend the Constitution.",
+          "Stay informed about issues in your community and participate in the democratic process.",
+          "Respect and obey federal, state and local laws.",
+          "Respect the rights, beliefs and opinions of others.",
+          "Pay income and other taxes honestly and on time.",
+          "Serve on a jury when called.",
+          "Defend the country if the need arises."
+        ]}
+      ],
+      "sources": [
+        {"name": "USCIS — Citizenship Rights and Responsibilities", "url": "https://www.uscis.gov/citizenship/learners/citizenship-rights-and-responsibilities"}
+      ]
+    },
+    {
+      "id": "updates",
+      "icon": "update",
+      "title": "Recent changes (2025–2026)",
+      "summary": "Important policy changes that may affect your application.",
+      "blocks": [
+        {"type": "note", "style": "warning", "text": "Immigration policies are changing quickly and some are being challenged in court. Always check uscis.gov and talk to an attorney or accredited representative about your own case."},
+        {"type": "h", "text": "New 2025 civics test — October 20, 2025"},
+        {"type": "p", "text": "Applicants who file Form N-400 on or after October 20, 2025 take the 2025 civics test: 20 questions from a list of 128, and 12 correct answers to pass."},
+        {"type": "h", "text": "Good moral character review — August 2025"},
+        {"type": "p", "text": "A USCIS policy memo (PM-602-0188, August 15, 2025) tells officers to evaluate good moral character holistically, looking at positive contributions (such as work, paying taxes and family responsibilities) and not only the absence of bad behavior. Unlawful voting, unlawful voter registration and false claims to U.S. citizenship disqualify applicants."},
+        {"type": "h", "text": "Neighborhood investigations — 2025 and 2026"},
+        {"type": "p", "text": "USCIS resumed neighborhood investigations in 2025. On August 25, 2026 it updated its Policy Manual to confirm them and to check applicant information more closely during the interview. Officers may contact neighbors, employers or coworkers to confirm where you live and work."},
+        {"type": "h", "text": "Electronic fee payments — October 28, 2025"},
+        {"type": "p", "text": "USCIS no longer accepts paper checks or money orders for paper filings. Pay by card (Form G-1450) or from a U.S. bank account (Form G-1650), unless you qualify for an exemption (Form G-1651)."},
+        {"type": "h", "text": "Holds on applications from certain countries — December 2025 to August 2026"},
+        {"type": "p", "text": "In December 2025 and January 2026, USCIS placed holds on pending benefit applications, including naturalization, filed by people from countries listed in Presidential Proclamation 10949 and later additional countries (the list includes Afghanistan and Iran). On June 5, 2026 a federal court in Rhode Island vacated these hold policies, and on August 24, 2026 a federal court in California ordered USCIS to adjudicate the affected applications in the normal course. USCIS said it will follow the orders while it seeks further review. If you are from an affected country, check the latest USCIS alerts and get legal advice."},
+        {"type": "h", "text": "Proposed fee increase — June 23, 2026"},
+        {"type": "p", "text": "DHS proposed raising the N-400 fee to $1,330 (paper) and $1,280 (online) and ending fee waivers and reduced fees for Form N-400. The comment period closed on August 24, 2026. The increase is not final; current fees ($710 online, $760 paper) still apply."}
+      ],
+      "sources": [
+        {"name": "USCIS — News release, September 17, 2025", "url": "https://www.uscis.gov/newsroom/news-releases/uscis-unveils-first-changes-to-naturalization-test-in-multi-step-overhaul-of-american-citizenship"},
+        {"name": "USCIS — PM-602-0188 Good Moral Character (August 15, 2025)", "url": "https://www.uscis.gov/sites/default/files/document/policy-alerts/08.15.2025-Restoring_a_Good_Moral_Character_Evaluation_Standard_for_Aliens_Applying_for_Naturalization-Policy_Memorandum_FINAL.pdf"},
+        {"name": "USCIS — Filing Fees", "url": "https://www.uscis.gov/forms/filing-fees"},
+        {"name": "USCIS — Court Order on Hold Policies (June 2026)", "url": "https://www.uscis.gov/newsroom/alerts/court-order-on-hold-policies"},
+        {"name": "USCIS — Recent Court Order on Hold Policies (August 2026)", "url": "https://www.uscis.gov/newsroom/alerts/recent-court-order-on-hold-policies"},
+        {"name": "Federal Register — Proposed rule, June 23, 2026", "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12542/naturalization-application-fee-adjustments"}
+      ]
+    },
+    {
+      "id": "resources",
+      "icon": "link",
+      "title": "Official resources and help",
+      "summary": "Trusted links, free classes and how to avoid immigration scams.",
+      "blocks": [
+        {"type": "link", "text": "USCIS Citizenship Resource Center", "url": "https://www.uscis.gov/citizenship"},
+        {"type": "link", "text": "Form N-400, Application for Naturalization", "url": "https://www.uscis.gov/n-400"},
+        {"type": "link", "text": "Civics test updates (current officials)", "url": "https://www.uscis.gov/citizenship/testupdates"},
+        {"type": "link", "text": "Check your case status", "url": "https://egov.uscis.gov/"},
+        {"type": "link", "text": "USCIS processing times", "url": "https://egov.uscis.gov/processing-times/"},
+        {"type": "link", "text": "USCIS online account", "url": "https://myaccount.uscis.gov/"},
+        {"type": "link", "text": "Find a citizenship class near you", "url": "https://www.uscis.gov/citizenship/findcitizenshiphelp"},
+        {"type": "link", "text": "Find free or low-cost legal help (DOJ recognized organizations)", "url": "https://www.justice.gov/eoir/recognized-organizations-and-accredited-representatives-roster-state-and-city"},
+        {"type": "link", "text": "Avoid scams", "url": "https://www.uscis.gov/avoid-scams"},
+        {"type": "p", "text": "USCIS Contact Center: 800-375-5283 (TTY 800-767-1833)."},
+        {"type": "note", "style": "warning", "text": "Only attorneys and DOJ-accredited representatives may give you legal advice. “Notarios” and immigration consultants cannot. USCIS forms are free to download from uscis.gov."}
+      ],
+      "sources": []
+    },
+    {
+      "id": "about",
+      "icon": "info",
+      "title": "About this app and disclaimer",
+      "summary": "Where the information comes from, and what this app is not.",
+      "blocks": [
+        {"type": "note", "style": "warning", "text": "This app is an independent study tool. It is not affiliated with, endorsed by, or connected to U.S. Citizenship and Immigration Services (USCIS) or any government agency. It does not provide legal advice."},
+        {"type": "p", "text": "The civics questions and answers and the reading and writing vocabulary come from official USCIS publications. Explanations, practice sentences, multiple-choice options and translations were written for this app to help you learn; they are not official USCIS material. The interview and all tests are in English."},
+        {"type": "p", "text": "Information about current officials, fees and policies was checked against official sources on the date shown in the app. These can change at any time. Always confirm with uscis.gov before your interview or before you file."},
+        {"type": "h", "text": "Privacy"},
+        {"type": "p", "text": "Your progress, trips, case dates and settings are saved only on this device. The app has no account and no tracking. Your answers in the Form N-400 review are not saved. The microphone is used only when you tap it, and notifications only if you turn on the daily reminder."}
+      ],
+      "sources": [
+        {"name": "USCIS", "url": "https://www.uscis.gov"},
+        {"name": "U.S. Senate", "url": "https://www.senate.gov"},
+        {"name": "U.S. House of Representatives", "url": "https://www.house.gov"}
+      ]
+    }
+  ]
+}

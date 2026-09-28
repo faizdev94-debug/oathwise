@@ -1,0 +1,1205 @@
+{
+  "asOf": "2026-09-27",
+  "notes": "Officials change because of elections, appointments and resignations. Always check the official sources before your interview. Federal answers follow uscis.gov/citizenship/testupdates (byVersion lists answers that differ between the 2008 and 2025 tests).",
+  "sources": [
+    {"name": "USCIS — Civics Test Updates", "url": "https://www.uscis.gov/citizenship/testupdates"},
+    {"name": "U.S. Senate — Senators", "url": "https://www.senate.gov/senators/"},
+    {
+      "name": "U.S. House — Find Your Representative",
+      "url": "https://www.house.gov/representatives/find-your-representative"
+    },
+    {
+      "name": "Office of the Clerk — House Members (data published Sep 2, 2026)",
+      "url": "https://clerk.house.gov/Members"
+    },
+    {"name": "National Governors Association — Governors", "url": "https://www.nga.org/governors/"}
+  ],
+  "federal": {
+    "president": {
+      "answers": ["Donald J. Trump", "Donald Trump", "Trump"]
+    },
+    "vicePresident": {
+      "answers": ["JD Vance", "Vance"]
+    },
+    "speaker": {
+      "answers": ["Mike Johnson", "Johnson", "James Michael Johnson (birth name)"]
+    },
+    "chiefJustice": {
+      "answers": ["John Roberts", "John G. Roberts, Jr.", "Roberts"],
+      "byVersion": {
+        "2008": ["John Roberts", "John G. Roberts, Jr."]
+      }
+    },
+    "presidentParty": {
+      "answers": ["Republican (Party)"]
+    },
+    "supremeCourtJustices": {
+      "answers": ["nine (9)"]
+    }
+  },
+  "jurisdictions": [
+    {
+      "code": "AL",
+      "name": "Alabama",
+      "type": "state",
+      "capital": "Montgomery",
+      "governor": "Kay Ivey",
+      "senators": [
+        {"name": "Katie Boyd Britt", "party": "R"},
+        {"name": "Tommy Tuberville", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Barry Moore", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Shomari Figures", "party": "D"},
+        {"district": 3, "label": "3rd", "name": "Mike Rogers", "party": "R"},
+        {"district": 4, "label": "4th", "name": "Robert B. Aderholt", "party": "R"},
+        {"district": 5, "label": "5th", "name": "Dale W. Strong", "party": "R"},
+        {"district": 6, "label": "6th", "name": "Gary J. Palmer", "party": "R"},
+        {"district": 7, "label": "7th", "name": "Terri A. Sewell", "party": "D"}
+      ]
+    },
+    {
+      "code": "AK",
+      "name": "Alaska",
+      "type": "state",
+      "capital": "Juneau",
+      "governor": "Mike Dunleavy",
+      "senators": [
+        {"name": "Lisa Murkowski", "party": "R"},
+        {"name": "Dan Sullivan", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 0, "label": "At Large", "name": "Nicholas J. Begich III", "party": "R"}
+      ]
+    },
+    {
+      "code": "AZ",
+      "name": "Arizona",
+      "type": "state",
+      "capital": "Phoenix",
+      "governor": "Katie Hobbs",
+      "senators": [
+        {"name": "Ruben Gallego", "party": "D"},
+        {"name": "Mark Kelly", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "David Schweikert", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Elijah Crane", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Yassamin Ansari", "party": "D"},
+        {"district": 4, "label": "4th", "name": "Greg Stanton", "party": "D"},
+        {"district": 5, "label": "5th", "name": "Andy Biggs", "party": "R"},
+        {"district": 6, "label": "6th", "name": "Juan Ciscomani", "party": "R"},
+        {"district": 7, "label": "7th", "name": "Adelita S. Grijalva", "party": "D"},
+        {"district": 8, "label": "8th", "name": "Abraham J. Hamadeh", "party": "R"},
+        {"district": 9, "label": "9th", "name": "Paul A. Gosar", "party": "R"}
+      ]
+    },
+    {
+      "code": "AR",
+      "name": "Arkansas",
+      "type": "state",
+      "capital": "Little Rock",
+      "governor": "Sarah Huckabee Sanders",
+      "senators": [
+        {"name": "John Boozman", "party": "R"},
+        {"name": "Tom Cotton", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Eric A. \"Rick\" Crawford", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "J. French Hill", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Steve Womack", "party": "R"},
+        {"district": 4, "label": "4th", "name": "Bruce Westerman", "party": "R"}
+      ]
+    },
+    {
+      "code": "CA",
+      "name": "California",
+      "type": "state",
+      "capital": "Sacramento",
+      "governor": "Gavin Newsom",
+      "senators": [
+        {"name": "Alex Padilla", "party": "D"},
+        {"name": "Adam B. Schiff", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "James Gallagher", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Jared Huffman", "party": "D"},
+        {"district": 3, "label": "3rd", "name": "Kevin Kiley", "party": "I"},
+        {"district": 4, "label": "4th", "name": "Mike Thompson", "party": "D"},
+        {"district": 5, "label": "5th", "name": "Tom McClintock", "party": "R"},
+        {"district": 6, "label": "6th", "name": "Ami Bera", "party": "D"},
+        {"district": 7, "label": "7th", "name": "Doris O. Matsui", "party": "D"},
+        {"district": 8, "label": "8th", "name": "John Garamendi", "party": "D"},
+        {"district": 9, "label": "9th", "name": "Josh Harder", "party": "D"},
+        {"district": 10, "label": "10th", "name": "Mark DeSaulnier", "party": "D"},
+        {"district": 11, "label": "11th", "name": "Nancy Pelosi", "party": "D"},
+        {"district": 12, "label": "12th", "name": "Lateefah Simon", "party": "D"},
+        {"district": 13, "label": "13th", "name": "Adam Gray", "party": "D"},
+        {"district": 14, "label": "14th", "name": "Aisha Wahab", "party": "D"},
+        {"district": 15, "label": "15th", "name": "Kevin Mullin", "party": "D"},
+        {"district": 16, "label": "16th", "name": "Sam T. Liccardo", "party": "D"},
+        {"district": 17, "label": "17th", "name": "Ro Khanna", "party": "D"},
+        {"district": 18, "label": "18th", "name": "Zoe Lofgren", "party": "D"},
+        {"district": 19, "label": "19th", "name": "Jimmy Panetta", "party": "D"},
+        {"district": 20, "label": "20th", "name": "Vince Fong", "party": "R"},
+        {"district": 21, "label": "21st", "name": "Jim Costa", "party": "D"},
+        {"district": 22, "label": "22nd", "name": "David G. Valadao", "party": "R"},
+        {"district": 23, "label": "23rd", "name": "Jay Obernolte", "party": "R"},
+        {"district": 24, "label": "24th", "name": "Salud O. Carbajal", "party": "D"},
+        {"district": 25, "label": "25th", "name": "Raul Ruiz", "party": "D"},
+        {"district": 26, "label": "26th", "name": "Julia Brownley", "party": "D"},
+        {"district": 27, "label": "27th", "name": "George Whitesides", "party": "D"},
+        {"district": 28, "label": "28th", "name": "Judy Chu", "party": "D"},
+        {"district": 29, "label": "29th", "name": "Luz M. Rivas", "party": "D"},
+        {"district": 30, "label": "30th", "name": "Laura Friedman", "party": "D"},
+        {"district": 31, "label": "31st", "name": "Gilbert Ray Cisneros, Jr.", "party": "D"},
+        {"district": 32, "label": "32nd", "name": "Brad Sherman", "party": "D"},
+        {"district": 33, "label": "33rd", "name": "Pete Aguilar", "party": "D"},
+        {"district": 34, "label": "34th", "name": "Jimmy Gomez", "party": "D"},
+        {"district": 35, "label": "35th", "name": "Norma J. Torres", "party": "D"},
+        {"district": 36, "label": "36th", "name": "Ted Lieu", "party": "D"},
+        {"district": 37, "label": "37th", "name": "Sydney Kamlager-Dove", "party": "D"},
+        {"district": 38, "label": "38th", "name": "Linda T. Sánchez", "party": "D"},
+        {"district": 39, "label": "39th", "name": "Mark Takano", "party": "D"},
+        {"district": 40, "label": "40th", "name": "Young Kim", "party": "R"},
+        {"district": 41, "label": "41st", "name": "Ken Calvert", "party": "R"},
+        {"district": 42, "label": "42nd", "name": "Robert Garcia", "party": "D"},
+        {"district": 43, "label": "43rd", "name": "Maxine Waters", "party": "D"},
+        {"district": 44, "label": "44th", "name": "Nanette Diaz Barragán", "party": "D"},
+        {"district": 45, "label": "45th", "name": "Derek Tran", "party": "D"},
+        {"district": 46, "label": "46th", "name": "J. Luis Correa", "party": "D"},
+        {"district": 47, "label": "47th", "name": "Dave Min", "party": "D"},
+        {"district": 48, "label": "48th", "name": "Darrell Issa", "party": "R"},
+        {"district": 49, "label": "49th", "name": "Mike Levin", "party": "D"},
+        {"district": 50, "label": "50th", "name": "Scott H. Peters", "party": "D"},
+        {"district": 51, "label": "51st", "name": "Sara Jacobs", "party": "D"},
+        {"district": 52, "label": "52nd", "name": "Juan Vargas", "party": "D"}
+      ]
+    },
+    {
+      "code": "CO",
+      "name": "Colorado",
+      "type": "state",
+      "capital": "Denver",
+      "governor": "Jared Polis",
+      "senators": [
+        {"name": "Michael F. Bennet", "party": "D"},
+        {"name": "John W. Hickenlooper", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Diana DeGette", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "Joe Neguse", "party": "D"},
+        {"district": 3, "label": "3rd", "name": "Jeff Hurd", "party": "R"},
+        {"district": 4, "label": "4th", "name": "Lauren Boebert", "party": "R"},
+        {"district": 5, "label": "5th", "name": "Jeff Crank", "party": "R"},
+        {"district": 6, "label": "6th", "name": "Jason Crow", "party": "D"},
+        {"district": 7, "label": "7th", "name": "Brittany Pettersen", "party": "D"},
+        {"district": 8, "label": "8th", "name": "Gabe Evans", "party": "R"}
+      ]
+    },
+    {
+      "code": "CT",
+      "name": "Connecticut",
+      "type": "state",
+      "capital": "Hartford",
+      "governor": "Ned Lamont",
+      "senators": [
+        {"name": "Richard Blumenthal", "party": "D"},
+        {"name": "Christopher Murphy", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "John B. Larson", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "Joe Courtney", "party": "D"},
+        {"district": 3, "label": "3rd", "name": "Rosa L. DeLauro", "party": "D"},
+        {"district": 4, "label": "4th", "name": "James A. Himes", "party": "D"},
+        {"district": 5, "label": "5th", "name": "Jahana Hayes", "party": "D"}
+      ]
+    },
+    {
+      "code": "DE",
+      "name": "Delaware",
+      "type": "state",
+      "capital": "Dover",
+      "governor": "Matt Meyer",
+      "senators": [
+        {"name": "Christopher A. Coons", "party": "D"},
+        {"name": "Lisa Blunt Rochester", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 0, "label": "At Large", "name": "Sarah McBride", "party": "D"}
+      ]
+    },
+    {
+      "code": "FL",
+      "name": "Florida",
+      "type": "state",
+      "capital": "Tallahassee",
+      "governor": "Ron DeSantis",
+      "senators": [
+        {"name": "Ashley Moody", "party": "R"},
+        {"name": "Rick Scott", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Jimmy Patronis", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Neal P. Dunn", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Kat Cammack", "party": "R"},
+        {"district": 4, "label": "4th", "name": "Aaron Bean", "party": "R"},
+        {"district": 5, "label": "5th", "name": "John H. Rutherford", "party": "R"},
+        {"district": 6, "label": "6th", "name": "Randy Fine", "party": "R"},
+        {"district": 7, "label": "7th", "name": "Cory Mills", "party": "R"},
+        {"district": 8, "label": "8th", "name": "Mike Haridopolos", "party": "R"},
+        {"district": 9, "label": "9th", "name": "Darren Soto", "party": "D"},
+        {"district": 10, "label": "10th", "name": "Maxwell Frost", "party": "D"},
+        {"district": 11, "label": "11th", "name": "Daniel Webster", "party": "R"},
+        {"district": 12, "label": "12th", "name": "Gus M. Bilirakis", "party": "R"},
+        {"district": 13, "label": "13th", "name": "Anna Paulina Luna", "party": "R"},
+        {"district": 14, "label": "14th", "name": "Kathy Castor", "party": "D"},
+        {"district": 15, "label": "15th", "name": "Laurel M. Lee", "party": "R"},
+        {"district": 16, "label": "16th", "name": "Vern Buchanan", "party": "R"},
+        {"district": 17, "label": "17th", "name": "W. Gregory Steube", "party": "R"},
+        {"district": 18, "label": "18th", "name": "Scott Franklin", "party": "R"},
+        {"district": 19, "label": "19th", "name": "Byron Donalds", "party": "R"},
+        {"district": 20, "label": "20th", "vacant": true},
+        {"district": 21, "label": "21st", "name": "Brian J. Mast", "party": "R"},
+        {"district": 22, "label": "22nd", "name": "Lois Frankel", "party": "D"},
+        {"district": 23, "label": "23rd", "name": "Jared Moskowitz", "party": "D"},
+        {"district": 24, "label": "24th", "name": "Frederica S. Wilson", "party": "D"},
+        {"district": 25, "label": "25th", "name": "Debbie Wasserman Schultz", "party": "D"},
+        {"district": 26, "label": "26th", "name": "Mario Diaz-Balart", "party": "R"},
+        {"district": 27, "label": "27th", "name": "Maria Elvira Salazar", "party": "R"},
+        {"district": 28, "label": "28th", "name": "Carlos A. Gimenez", "party": "R"}
+      ]
+    },
+    {
+      "code": "GA",
+      "name": "Georgia",
+      "type": "state",
+      "capital": "Atlanta",
+      "governor": "Brian Kemp",
+      "senators": [
+        {"name": "Jon Ossoff", "party": "D"},
+        {"name": "Raphael G. Warnock", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Earl L. \"Buddy\" Carter", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Sanford D. Bishop, Jr.", "party": "D"},
+        {"district": 3, "label": "3rd", "name": "Brian Jack", "party": "R"},
+        {"district": 4, "label": "4th", "name": "Henry C. \"Hank\" Johnson, Jr.", "party": "D"},
+        {"district": 5, "label": "5th", "name": "Nikema Williams", "party": "D"},
+        {"district": 6, "label": "6th", "name": "Lucy McBath", "party": "D"},
+        {"district": 7, "label": "7th", "name": "Richard McCormick", "party": "R"},
+        {"district": 8, "label": "8th", "name": "Austin Scott", "party": "R"},
+        {"district": 9, "label": "9th", "name": "Andrew S. Clyde", "party": "R"},
+        {"district": 10, "label": "10th", "name": "Mike Collins", "party": "R"},
+        {"district": 11, "label": "11th", "name": "Barry Loudermilk", "party": "R"},
+        {"district": 12, "label": "12th", "name": "Rick W. Allen", "party": "R"},
+        {"district": 13, "label": "13th", "name": "Everton Blair Jr.", "party": "D"},
+        {"district": 14, "label": "14th", "name": "Clay Fuller", "party": "R"}
+      ]
+    },
+    {
+      "code": "HI",
+      "name": "Hawaii",
+      "type": "state",
+      "capital": "Honolulu",
+      "governor": "Josh Green",
+      "senators": [
+        {"name": "Mazie K. Hirono", "party": "D"},
+        {"name": "Brian Schatz", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Ed Case", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "Jill N. Tokuda", "party": "D"}
+      ]
+    },
+    {
+      "code": "ID",
+      "name": "Idaho",
+      "type": "state",
+      "capital": "Boise",
+      "governor": "Brad Little",
+      "senators": [
+        {"name": "Mike Crapo", "party": "R"},
+        {"name": "James E. Risch", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Russ Fulcher", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Michael K. Simpson", "party": "R"}
+      ]
+    },
+    {
+      "code": "IL",
+      "name": "Illinois",
+      "type": "state",
+      "capital": "Springfield",
+      "governor": "JB Pritzker",
+      "senators": [
+        {"name": "Tammy Duckworth", "party": "D"},
+        {"name": "Richard J. Durbin", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Jonathan L. Jackson", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "Robin L. Kelly", "party": "D"},
+        {"district": 3, "label": "3rd", "name": "Delia C. Ramirez", "party": "D"},
+        {"district": 4, "label": "4th", "name": "Jesús G. \"Chuy\" García", "party": "D"},
+        {"district": 5, "label": "5th", "name": "Mike Quigley", "party": "D"},
+        {"district": 6, "label": "6th", "name": "Sean Casten", "party": "D"},
+        {"district": 7, "label": "7th", "name": "Danny K. Davis", "party": "D"},
+        {"district": 8, "label": "8th", "name": "Raja Krishnamoorthi", "party": "D"},
+        {"district": 9, "label": "9th", "name": "Janice D. Schakowsky", "party": "D"},
+        {"district": 10, "label": "10th", "name": "Bradley Scott Schneider", "party": "D"},
+        {"district": 11, "label": "11th", "name": "Bill Foster", "party": "D"},
+        {"district": 12, "label": "12th", "name": "Mike Bost", "party": "R"},
+        {"district": 13, "label": "13th", "name": "Nikki Budzinski", "party": "D"},
+        {"district": 14, "label": "14th", "name": "Lauren Underwood", "party": "D"},
+        {"district": 15, "label": "15th", "name": "Mary E. Miller", "party": "R"},
+        {"district": 16, "label": "16th", "name": "Darin LaHood", "party": "R"},
+        {"district": 17, "label": "17th", "name": "Eric Sorensen", "party": "D"}
+      ]
+    },
+    {
+      "code": "IN",
+      "name": "Indiana",
+      "type": "state",
+      "capital": "Indianapolis",
+      "governor": "Mike Braun",
+      "senators": [
+        {"name": "Jim Banks", "party": "R"},
+        {"name": "Todd Young", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Frank J. Mrvan", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "Rudy Yakym III", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Marlin A. Stutzman", "party": "R"},
+        {"district": 4, "label": "4th", "name": "James R. Baird", "party": "R"},
+        {"district": 5, "label": "5th", "name": "Victoria Spartz", "party": "R"},
+        {"district": 6, "label": "6th", "name": "Jefferson Shreve", "party": "R"},
+        {"district": 7, "label": "7th", "name": "André Carson", "party": "D"},
+        {"district": 8, "label": "8th", "name": "Mark B. Messmer", "party": "R"},
+        {"district": 9, "label": "9th", "name": "Erin Houchin", "party": "R"}
+      ]
+    },
+    {
+      "code": "IA",
+      "name": "Iowa",
+      "type": "state",
+      "capital": "Des Moines",
+      "governor": "Kim Reynolds",
+      "senators": [
+        {"name": "Joni Ernst", "party": "R"},
+        {"name": "Chuck Grassley", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Mariannette Miller-Meeks", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Ashley Hinson", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Zachary Nunn", "party": "R"},
+        {"district": 4, "label": "4th", "name": "Randy Feenstra", "party": "R"}
+      ]
+    },
+    {
+      "code": "KS",
+      "name": "Kansas",
+      "type": "state",
+      "capital": "Topeka",
+      "governor": "Laura Kelly",
+      "senators": [
+        {"name": "Roger Marshall", "party": "R"},
+        {"name": "Jerry Moran", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Tracey Mann", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Derek Schmidt", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Sharice Davids", "party": "D"},
+        {"district": 4, "label": "4th", "name": "Ron Estes", "party": "R"}
+      ]
+    },
+    {
+      "code": "KY",
+      "name": "Kentucky",
+      "type": "state",
+      "capital": "Frankfort",
+      "governor": "Andy Beshear",
+      "senators": [
+        {"name": "Mitch McConnell", "party": "R"},
+        {"name": "Rand Paul", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "James Comer", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Brett Guthrie", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Morgan McGarvey", "party": "D"},
+        {"district": 4, "label": "4th", "name": "Thomas Massie", "party": "R"},
+        {"district": 5, "label": "5th", "name": "Harold Rogers", "party": "R"},
+        {"district": 6, "label": "6th", "name": "Andy Barr", "party": "R"}
+      ]
+    },
+    {
+      "code": "LA",
+      "name": "Louisiana",
+      "type": "state",
+      "capital": "Baton Rouge",
+      "governor": "Jeff Landry",
+      "senators": [
+        {"name": "Bill Cassidy", "party": "R"},
+        {"name": "John Kennedy", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Steve Scalise", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Troy A. Carter", "party": "D"},
+        {"district": 3, "label": "3rd", "name": "Clay Higgins", "party": "R"},
+        {"district": 4, "label": "4th", "name": "Mike Johnson", "party": "R"},
+        {"district": 5, "label": "5th", "name": "Julia Letlow", "party": "R"},
+        {"district": 6, "label": "6th", "name": "Cleo Fields", "party": "D"}
+      ]
+    },
+    {
+      "code": "ME",
+      "name": "Maine",
+      "type": "state",
+      "capital": "Augusta",
+      "governor": "Janet Mills",
+      "senators": [
+        {"name": "Susan M. Collins", "party": "R"},
+        {"name": "Angus S. King, Jr.", "party": "I"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Chellie Pingree", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "Jared F. Golden", "party": "D"}
+      ]
+    },
+    {
+      "code": "MD",
+      "name": "Maryland",
+      "type": "state",
+      "capital": "Annapolis",
+      "governor": "Wes Moore",
+      "senators": [
+        {"name": "Angela D. Alsobrooks", "party": "D"},
+        {"name": "Chris Van Hollen", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Andy Harris", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Johnny Olszewski, Jr.", "party": "D"},
+        {"district": 3, "label": "3rd", "name": "Sarah Elfreth", "party": "D"},
+        {"district": 4, "label": "4th", "name": "Glenn Ivey", "party": "D"},
+        {"district": 5, "label": "5th", "name": "Steny H. Hoyer", "party": "D"},
+        {"district": 6, "label": "6th", "name": "April McClain Delaney", "party": "D"},
+        {"district": 7, "label": "7th", "name": "Kweisi Mfume", "party": "D"},
+        {"district": 8, "label": "8th", "name": "Jamie Raskin", "party": "D"}
+      ]
+    },
+    {
+      "code": "MA",
+      "name": "Massachusetts",
+      "type": "state",
+      "capital": "Boston",
+      "governor": "Maura Healey",
+      "senators": [
+        {"name": "Edward J. Markey", "party": "D"},
+        {"name": "Elizabeth Warren", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Richard E. Neal", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "James P. McGovern", "party": "D"},
+        {"district": 3, "label": "3rd", "name": "Lori Trahan", "party": "D"},
+        {"district": 4, "label": "4th", "name": "Jake Auchincloss", "party": "D"},
+        {"district": 5, "label": "5th", "name": "Katherine M. Clark", "party": "D"},
+        {"district": 6, "label": "6th", "name": "Seth Moulton", "party": "D"},
+        {"district": 7, "label": "7th", "name": "Ayanna Pressley", "party": "D"},
+        {"district": 8, "label": "8th", "name": "Stephen F. Lynch", "party": "D"},
+        {"district": 9, "label": "9th", "name": "William R. Keating", "party": "D"}
+      ]
+    },
+    {
+      "code": "MI",
+      "name": "Michigan",
+      "type": "state",
+      "capital": "Lansing",
+      "governor": "Gretchen Whitmer",
+      "senators": [
+        {"name": "Gary C. Peters", "party": "D"},
+        {"name": "Elissa Slotkin", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Jack Bergman", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "John R. Moolenaar", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Hillary J. Scholten", "party": "D"},
+        {"district": 4, "label": "4th", "name": "Bill Huizenga", "party": "R"},
+        {"district": 5, "label": "5th", "name": "Tim Walberg", "party": "R"},
+        {"district": 6, "label": "6th", "name": "Debbie Dingell", "party": "D"},
+        {"district": 7, "label": "7th", "name": "Tom Barrett", "party": "R"},
+        {"district": 8, "label": "8th", "name": "Kristen McDonald Rivet", "party": "D"},
+        {"district": 9, "label": "9th", "name": "Lisa C. McClain", "party": "R"},
+        {"district": 10, "label": "10th", "name": "John James", "party": "R"},
+        {"district": 11, "label": "11th", "name": "Haley M. Stevens", "party": "D"},
+        {"district": 12, "label": "12th", "name": "Rashida Tlaib", "party": "D"},
+        {"district": 13, "label": "13th", "name": "Shri Thanedar", "party": "D"}
+      ]
+    },
+    {
+      "code": "MN",
+      "name": "Minnesota",
+      "type": "state",
+      "capital": "Saint Paul",
+      "governor": "Tim Walz",
+      "senators": [
+        {"name": "Amy Klobuchar", "party": "D"},
+        {"name": "Tina Smith", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Brad Finstad", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Angie Craig", "party": "D"},
+        {"district": 3, "label": "3rd", "name": "Kelly Morrison", "party": "D"},
+        {"district": 4, "label": "4th", "name": "Betty McCollum", "party": "D"},
+        {"district": 5, "label": "5th", "name": "Ilhan Omar", "party": "D"},
+        {"district": 6, "label": "6th", "name": "Tom Emmer", "party": "R"},
+        {"district": 7, "label": "7th", "name": "Michelle Fischbach", "party": "R"},
+        {"district": 8, "label": "8th", "name": "Pete Stauber", "party": "R"}
+      ]
+    },
+    {
+      "code": "MS",
+      "name": "Mississippi",
+      "type": "state",
+      "capital": "Jackson",
+      "governor": "Tate Reeves",
+      "senators": [
+        {"name": "Cindy Hyde-Smith", "party": "R"},
+        {"name": "Roger F. Wicker", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Trent Kelly", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Bennie G. Thompson", "party": "D"},
+        {"district": 3, "label": "3rd", "name": "Michael Guest", "party": "R"},
+        {"district": 4, "label": "4th", "name": "Mike Ezell", "party": "R"}
+      ]
+    },
+    {
+      "code": "MO",
+      "name": "Missouri",
+      "type": "state",
+      "capital": "Jefferson City",
+      "governor": "Mike Kehoe",
+      "senators": [
+        {"name": "Josh Hawley", "party": "R"},
+        {"name": "Eric Schmitt", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Wesley Bell", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "Ann Wagner", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Robert F. Onder, Jr.", "party": "R"},
+        {"district": 4, "label": "4th", "name": "Mark Alford", "party": "R"},
+        {"district": 5, "label": "5th", "name": "Emanuel Cleaver", "party": "D"},
+        {"district": 6, "label": "6th", "name": "Sam Graves", "party": "R"},
+        {"district": 7, "label": "7th", "name": "Eric Burlison", "party": "R"},
+        {"district": 8, "label": "8th", "name": "Jason Smith", "party": "R"}
+      ]
+    },
+    {
+      "code": "MT",
+      "name": "Montana",
+      "type": "state",
+      "capital": "Helena",
+      "governor": "Greg Gianforte",
+      "senators": [
+        {"name": "Steve Daines", "party": "R"},
+        {"name": "Tim Sheehy", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Ryan K. Zinke", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Troy Downing", "party": "R"}
+      ]
+    },
+    {
+      "code": "NE",
+      "name": "Nebraska",
+      "type": "state",
+      "capital": "Lincoln",
+      "governor": "Jim Pillen",
+      "senators": [
+        {"name": "Deb Fischer", "party": "R"},
+        {"name": "Pete Ricketts", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Mike Flood", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Don Bacon", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Adrian Smith", "party": "R"}
+      ]
+    },
+    {
+      "code": "NV",
+      "name": "Nevada",
+      "type": "state",
+      "capital": "Carson City",
+      "governor": "Joe Lombardo",
+      "senators": [
+        {"name": "Catherine Cortez Masto", "party": "D"},
+        {"name": "Jacky Rosen", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Dina Titus", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "Mark E. Amodei", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Susie Lee", "party": "D"},
+        {"district": 4, "label": "4th", "name": "Steven Horsford", "party": "D"}
+      ]
+    },
+    {
+      "code": "NH",
+      "name": "New Hampshire",
+      "type": "state",
+      "capital": "Concord",
+      "governor": "Kelly Ayotte",
+      "senators": [
+        {"name": "Margaret Wood Hassan", "party": "D"},
+        {"name": "Jeanne Shaheen", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Chris Pappas", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "Maggie Goodlander", "party": "D"}
+      ]
+    },
+    {
+      "code": "NJ",
+      "name": "New Jersey",
+      "type": "state",
+      "capital": "Trenton",
+      "governor": "Mikie Sherrill",
+      "senators": [
+        {"name": "Cory A. Booker", "party": "D"},
+        {"name": "Andy Kim", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Donald Norcross", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "Jefferson Van Drew", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Herbert C. Conaway, Jr.", "party": "D"},
+        {"district": 4, "label": "4th", "name": "Christopher H. Smith", "party": "R"},
+        {"district": 5, "label": "5th", "name": "Josh Gottheimer", "party": "D"},
+        {"district": 6, "label": "6th", "name": "Frank Pallone, Jr.", "party": "D"},
+        {"district": 7, "label": "7th", "name": "Thomas H. Kean, Jr.", "party": "R"},
+        {"district": 8, "label": "8th", "name": "Robert Menendez", "party": "D"},
+        {"district": 9, "label": "9th", "name": "Nellie Pou", "party": "D"},
+        {"district": 10, "label": "10th", "name": "LaMonica McIver", "party": "D"},
+        {"district": 11, "label": "11th", "name": "Analilia Mejia", "party": "D"},
+        {"district": 12, "label": "12th", "name": "Bonnie Watson Coleman", "party": "D"}
+      ]
+    },
+    {
+      "code": "NM",
+      "name": "New Mexico",
+      "type": "state",
+      "capital": "Santa Fe",
+      "governor": "Michelle Lujan Grisham",
+      "senators": [
+        {"name": "Martin Heinrich", "party": "D"},
+        {"name": "Ben Ray Luján", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Melanie A. Stansbury", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "Gabe Vasquez", "party": "D"},
+        {"district": 3, "label": "3rd", "name": "Teresa Leger Fernandez", "party": "D"}
+      ]
+    },
+    {
+      "code": "NY",
+      "name": "New York",
+      "type": "state",
+      "capital": "Albany",
+      "governor": "Kathy Hochul",
+      "senators": [
+        {"name": "Kirsten E. Gillibrand", "party": "D"},
+        {"name": "Charles E. Schumer", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Nick LaLota", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Andrew R. Garbarino", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Thomas R. Suozzi", "party": "D"},
+        {"district": 4, "label": "4th", "name": "Laura Gillen", "party": "D"},
+        {"district": 5, "label": "5th", "name": "Gregory W. Meeks", "party": "D"},
+        {"district": 6, "label": "6th", "name": "Grace Meng", "party": "D"},
+        {"district": 7, "label": "7th", "name": "Nydia M. Velázquez", "party": "D"},
+        {"district": 8, "label": "8th", "name": "Hakeem S. Jeffries", "party": "D"},
+        {"district": 9, "label": "9th", "name": "Yvette D. Clarke", "party": "D"},
+        {"district": 10, "label": "10th", "name": "Daniel S. Goldman", "party": "D"},
+        {"district": 11, "label": "11th", "name": "Nicole Malliotakis", "party": "R"},
+        {"district": 12, "label": "12th", "name": "Jerrold Nadler", "party": "D"},
+        {"district": 13, "label": "13th", "name": "Adriano Espaillat", "party": "D"},
+        {"district": 14, "label": "14th", "name": "Alexandria Ocasio-Cortez", "party": "D"},
+        {"district": 15, "label": "15th", "name": "Ritchie Torres", "party": "D"},
+        {"district": 16, "label": "16th", "name": "George Latimer", "party": "D"},
+        {"district": 17, "label": "17th", "name": "Michael Lawler", "party": "R"},
+        {"district": 18, "label": "18th", "name": "Patrick Ryan", "party": "D"},
+        {"district": 19, "label": "19th", "name": "Josh Riley", "party": "D"},
+        {"district": 20, "label": "20th", "name": "Paul Tonko", "party": "D"},
+        {"district": 21, "label": "21st", "name": "Elise M. Stefanik", "party": "R"},
+        {"district": 22, "label": "22nd", "name": "John W. Mannion", "party": "D"},
+        {"district": 23, "label": "23rd", "name": "Nicholas A. Langworthy", "party": "R"},
+        {"district": 24, "label": "24th", "name": "Claudia Tenney", "party": "R"},
+        {"district": 25, "label": "25th", "name": "Joseph D. Morelle", "party": "D"},
+        {"district": 26, "label": "26th", "name": "Timothy M. Kennedy", "party": "D"}
+      ]
+    },
+    {
+      "code": "NC",
+      "name": "North Carolina",
+      "type": "state",
+      "capital": "Raleigh",
+      "governor": "Josh Stein",
+      "senators": [
+        {"name": "Ted Budd", "party": "R"},
+        {"name": "Thom Tillis", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Donald G. Davis", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "Deborah K. Ross", "party": "D"},
+        {"district": 3, "label": "3rd", "name": "Gregory F. Murphy", "party": "R"},
+        {"district": 4, "label": "4th", "name": "Valerie P. Foushee", "party": "D"},
+        {"district": 5, "label": "5th", "name": "Virginia Foxx", "party": "R"},
+        {"district": 6, "label": "6th", "name": "Addison P. McDowell", "party": "R"},
+        {"district": 7, "label": "7th", "name": "David Rouzer", "party": "R"},
+        {"district": 8, "label": "8th", "name": "Mark Harris", "party": "R"},
+        {"district": 9, "label": "9th", "name": "Richard Hudson", "party": "R"},
+        {"district": 10, "label": "10th", "name": "Pat Harrigan", "party": "R"},
+        {"district": 11, "label": "11th", "name": "Chuck Edwards", "party": "R"},
+        {"district": 12, "label": "12th", "name": "Alma S. Adams", "party": "D"},
+        {"district": 13, "label": "13th", "name": "Brad Knott", "party": "R"},
+        {"district": 14, "label": "14th", "name": "Tim Moore", "party": "R"}
+      ]
+    },
+    {
+      "code": "ND",
+      "name": "North Dakota",
+      "type": "state",
+      "capital": "Bismarck",
+      "governor": "Kelly Armstrong",
+      "senators": [
+        {"name": "Kevin Cramer", "party": "R"},
+        {"name": "John Hoeven", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 0, "label": "At Large", "name": "Julie Fedorchak", "party": "R"}
+      ]
+    },
+    {
+      "code": "OH",
+      "name": "Ohio",
+      "type": "state",
+      "capital": "Columbus",
+      "governor": "Mike DeWine",
+      "senators": [
+        {"name": "Jon Husted", "party": "R"},
+        {"name": "Bernie Moreno", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Greg Landsman", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "David J. Taylor", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Joyce Beatty", "party": "D"},
+        {"district": 4, "label": "4th", "name": "Jim Jordan", "party": "R"},
+        {"district": 5, "label": "5th", "name": "Robert E. Latta", "party": "R"},
+        {"district": 6, "label": "6th", "name": "Michael A. Rulli", "party": "R"},
+        {"district": 7, "label": "7th", "name": "Max L. Miller", "party": "R"},
+        {"district": 8, "label": "8th", "name": "Warren Davidson", "party": "R"},
+        {"district": 9, "label": "9th", "name": "Marcy Kaptur", "party": "D"},
+        {"district": 10, "label": "10th", "name": "Michael R. Turner", "party": "R"},
+        {"district": 11, "label": "11th", "name": "Shontel M. Brown", "party": "D"},
+        {"district": 12, "label": "12th", "name": "Troy Balderson", "party": "R"},
+        {"district": 13, "label": "13th", "name": "Emilia Strong Sykes", "party": "D"},
+        {"district": 14, "label": "14th", "name": "David P. Joyce", "party": "R"},
+        {"district": 15, "label": "15th", "name": "Mike Carey", "party": "R"}
+      ]
+    },
+    {
+      "code": "OK",
+      "name": "Oklahoma",
+      "type": "state",
+      "capital": "Oklahoma City",
+      "governor": "Kevin Stitt",
+      "senators": [
+        {"name": "Alan Armstrong", "party": "R"},
+        {"name": "James Lankford", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Kevin Hern", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Josh Brecheen", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Frank D. Lucas", "party": "R"},
+        {"district": 4, "label": "4th", "name": "Tom Cole", "party": "R"},
+        {"district": 5, "label": "5th", "name": "Stephanie I. Bice", "party": "R"}
+      ]
+    },
+    {
+      "code": "OR",
+      "name": "Oregon",
+      "type": "state",
+      "capital": "Salem",
+      "governor": "Tina Kotek",
+      "senators": [
+        {"name": "Jeff Merkley", "party": "D"},
+        {"name": "Ron Wyden", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Suzanne Bonamici", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "Cliff Bentz", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Maxine Dexter", "party": "D"},
+        {"district": 4, "label": "4th", "name": "Val T. Hoyle", "party": "D"},
+        {"district": 5, "label": "5th", "name": "Janelle S. Bynum", "party": "D"},
+        {"district": 6, "label": "6th", "name": "Andrea Salinas", "party": "D"}
+      ]
+    },
+    {
+      "code": "PA",
+      "name": "Pennsylvania",
+      "type": "state",
+      "capital": "Harrisburg",
+      "governor": "Josh Shapiro",
+      "senators": [
+        {"name": "John Fetterman", "party": "D"},
+        {"name": "David McCormick", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Brian K. Fitzpatrick", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Brendan F. Boyle", "party": "D"},
+        {"district": 3, "label": "3rd", "name": "Dwight Evans", "party": "D"},
+        {"district": 4, "label": "4th", "name": "Madeleine Dean", "party": "D"},
+        {"district": 5, "label": "5th", "name": "Mary Gay Scanlon", "party": "D"},
+        {"district": 6, "label": "6th", "name": "Chrissy Houlahan", "party": "D"},
+        {"district": 7, "label": "7th", "name": "Ryan Mackenzie", "party": "R"},
+        {"district": 8, "label": "8th", "name": "Robert P. Bresnahan, Jr.", "party": "R"},
+        {"district": 9, "label": "9th", "name": "Daniel Meuser", "party": "R"},
+        {"district": 10, "label": "10th", "name": "Scott Perry", "party": "R"},
+        {"district": 11, "label": "11th", "name": "Lloyd Smucker", "party": "R"},
+        {"district": 12, "label": "12th", "name": "Summer L. Lee", "party": "D"},
+        {"district": 13, "label": "13th", "name": "John Joyce", "party": "R"},
+        {"district": 14, "label": "14th", "name": "Guy Reschenthaler", "party": "R"},
+        {"district": 15, "label": "15th", "name": "Glenn Thompson", "party": "R"},
+        {"district": 16, "label": "16th", "name": "Mike Kelly", "party": "R"},
+        {"district": 17, "label": "17th", "name": "Christopher R. Deluzio", "party": "D"}
+      ]
+    },
+    {
+      "code": "RI",
+      "name": "Rhode Island",
+      "type": "state",
+      "capital": "Providence",
+      "governor": "Dan McKee",
+      "senators": [
+        {"name": "Jack Reed", "party": "D"},
+        {"name": "Sheldon Whitehouse", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Gabe Amo", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "Seth Magaziner", "party": "D"}
+      ]
+    },
+    {
+      "code": "SC",
+      "name": "South Carolina",
+      "type": "state",
+      "capital": "Columbia",
+      "governor": "Henry McMaster",
+      "senators": [
+        {"name": "Darline Graham", "party": "R"},
+        {"name": "Tim Scott", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Nancy Mace", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Joe Wilson", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Sheri Biggs", "party": "R"},
+        {"district": 4, "label": "4th", "name": "William R. Timmons IV", "party": "R"},
+        {"district": 5, "label": "5th", "name": "Ralph Norman", "party": "R"},
+        {"district": 6, "label": "6th", "name": "James E. Clyburn", "party": "D"},
+        {"district": 7, "label": "7th", "name": "Russell Fry", "party": "R"}
+      ]
+    },
+    {
+      "code": "SD",
+      "name": "South Dakota",
+      "type": "state",
+      "capital": "Pierre",
+      "governor": "Larry Rhoden",
+      "senators": [
+        {"name": "Mike Rounds", "party": "R"},
+        {"name": "John Thune", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 0, "label": "At Large", "name": "Dusty Johnson", "party": "R"}
+      ]
+    },
+    {
+      "code": "TN",
+      "name": "Tennessee",
+      "type": "state",
+      "capital": "Nashville",
+      "governor": "Bill Lee",
+      "senators": [
+        {"name": "Marsha Blackburn", "party": "R"},
+        {"name": "Bill Hagerty", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Diana Harshbarger", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Tim Burchett", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Charles J. \"Chuck\" Fleischmann", "party": "R"},
+        {"district": 4, "label": "4th", "name": "Scott DesJarlais", "party": "R"},
+        {"district": 5, "label": "5th", "name": "Andrew Ogles", "party": "R"},
+        {"district": 6, "label": "6th", "name": "John W. Rose", "party": "R"},
+        {"district": 7, "label": "7th", "name": "Matt Van Epps", "party": "R"},
+        {"district": 8, "label": "8th", "name": "David Kustoff", "party": "R"},
+        {"district": 9, "label": "9th", "name": "Steve Cohen", "party": "D"}
+      ]
+    },
+    {
+      "code": "TX",
+      "name": "Texas",
+      "type": "state",
+      "capital": "Austin",
+      "governor": "Greg Abbott",
+      "senators": [
+        {"name": "John Cornyn", "party": "R"},
+        {"name": "Ted Cruz", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Nathaniel Moran", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Dan Crenshaw", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Keith Self", "party": "R"},
+        {"district": 4, "label": "4th", "name": "Pat Fallon", "party": "R"},
+        {"district": 5, "label": "5th", "name": "Lance Gooden", "party": "R"},
+        {"district": 6, "label": "6th", "name": "Jake Ellzey", "party": "R"},
+        {"district": 7, "label": "7th", "name": "Lizzie Fletcher", "party": "D"},
+        {"district": 8, "label": "8th", "name": "Morgan Luttrell", "party": "R"},
+        {"district": 9, "label": "9th", "name": "Al Green", "party": "D"},
+        {"district": 10, "label": "10th", "name": "Michael T. McCaul", "party": "R"},
+        {"district": 11, "label": "11th", "name": "August Pfluger", "party": "R"},
+        {"district": 12, "label": "12th", "name": "Craig A. Goldman", "party": "R"},
+        {"district": 13, "label": "13th", "name": "Ronny Jackson", "party": "R"},
+        {"district": 14, "label": "14th", "name": "Randy K. Weber, Sr.", "party": "R"},
+        {"district": 15, "label": "15th", "name": "Monica De La Cruz", "party": "R"},
+        {"district": 16, "label": "16th", "name": "Veronica Escobar", "party": "D"},
+        {"district": 17, "label": "17th", "name": "Pete Sessions", "party": "R"},
+        {"district": 18, "label": "18th", "name": "Christian D. Menefee", "party": "D"},
+        {"district": 19, "label": "19th", "name": "Jodey C. Arrington", "party": "R"},
+        {"district": 20, "label": "20th", "name": "Joaquin Castro", "party": "D"},
+        {"district": 21, "label": "21st", "name": "Chip Roy", "party": "R"},
+        {"district": 22, "label": "22nd", "name": "Troy E. Nehls", "party": "R"},
+        {"district": 23, "label": "23rd", "vacant": true},
+        {"district": 24, "label": "24th", "name": "Beth Van Duyne", "party": "R"},
+        {"district": 25, "label": "25th", "name": "Roger Williams", "party": "R"},
+        {"district": 26, "label": "26th", "name": "Brandon Gill", "party": "R"},
+        {"district": 27, "label": "27th", "name": "Michael Cloud", "party": "R"},
+        {"district": 28, "label": "28th", "name": "Henry Cuellar", "party": "D"},
+        {"district": 29, "label": "29th", "name": "Sylvia R. Garcia", "party": "D"},
+        {"district": 30, "label": "30th", "name": "Jasmine Crockett", "party": "D"},
+        {"district": 31, "label": "31st", "name": "John R. Carter", "party": "R"},
+        {"district": 32, "label": "32nd", "name": "Julie Johnson", "party": "D"},
+        {"district": 33, "label": "33rd", "name": "Marc A. Veasey", "party": "D"},
+        {"district": 34, "label": "34th", "name": "Vicente Gonzalez", "party": "D"},
+        {"district": 35, "label": "35th", "name": "Greg Casar", "party": "D"},
+        {"district": 36, "label": "36th", "name": "Brian Babin", "party": "R"},
+        {"district": 37, "label": "37th", "name": "Lloyd Doggett", "party": "D"},
+        {"district": 38, "label": "38th", "name": "Wesley Hunt", "party": "R"}
+      ]
+    },
+    {
+      "code": "UT",
+      "name": "Utah",
+      "type": "state",
+      "capital": "Salt Lake City",
+      "governor": "Spencer Cox",
+      "senators": [
+        {"name": "John R. Curtis", "party": "R"},
+        {"name": "Mike Lee", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Blake D. Moore", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Celeste Maloy", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Mike Kennedy", "party": "R"},
+        {"district": 4, "label": "4th", "name": "Burgess Owens", "party": "R"}
+      ]
+    },
+    {
+      "code": "VT",
+      "name": "Vermont",
+      "type": "state",
+      "capital": "Montpelier",
+      "governor": "Phil Scott",
+      "senators": [
+        {"name": "Bernard Sanders", "party": "I"},
+        {"name": "Peter Welch", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 0, "label": "At Large", "name": "Becca Balint", "party": "D"}
+      ]
+    },
+    {
+      "code": "VA",
+      "name": "Virginia",
+      "type": "state",
+      "capital": "Richmond",
+      "governor": "Abigail Spanberger",
+      "senators": [
+        {"name": "Tim Kaine", "party": "D"},
+        {"name": "Mark R. Warner", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Robert J. Wittman", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Jennifer A. Kiggans", "party": "R"},
+        {"district": 3, "label": "3rd", "name": "Robert C. \"Bobby\" Scott", "party": "D"},
+        {"district": 4, "label": "4th", "name": "Jennifer L. McClellan", "party": "D"},
+        {"district": 5, "label": "5th", "name": "John J. McGuire III", "party": "R"},
+        {"district": 6, "label": "6th", "name": "Ben Cline", "party": "R"},
+        {"district": 7, "label": "7th", "name": "Eugene Simon Vindman", "party": "D"},
+        {"district": 8, "label": "8th", "name": "Donald S. Beyer, Jr.", "party": "D"},
+        {"district": 9, "label": "9th", "name": "H. Morgan Griffith", "party": "R"},
+        {"district": 10, "label": "10th", "name": "Suhas Subramanyam", "party": "D"},
+        {"district": 11, "label": "11th", "name": "James R. Walkinshaw", "party": "D"}
+      ]
+    },
+    {
+      "code": "WA",
+      "name": "Washington",
+      "type": "state",
+      "capital": "Olympia",
+      "governor": "Bob Ferguson",
+      "senators": [
+        {"name": "Maria Cantwell", "party": "D"},
+        {"name": "Patty Murray", "party": "D"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Suzan K. DelBene", "party": "D"},
+        {"district": 2, "label": "2nd", "name": "Rick Larsen", "party": "D"},
+        {"district": 3, "label": "3rd", "name": "Marie Gluesenkamp Perez", "party": "D"},
+        {"district": 4, "label": "4th", "name": "Dan Newhouse", "party": "R"},
+        {"district": 5, "label": "5th", "name": "Michael Baumgartner", "party": "R"},
+        {"district": 6, "label": "6th", "name": "Emily Randall", "party": "D"},
+        {"district": 7, "label": "7th", "name": "Pramila Jayapal", "party": "D"},
+        {"district": 8, "label": "8th", "name": "Kim Schrier", "party": "D"},
+        {"district": 9, "label": "9th", "name": "Adam Smith", "party": "D"},
+        {"district": 10, "label": "10th", "name": "Marilyn Strickland", "party": "D"}
+      ]
+    },
+    {
+      "code": "WV",
+      "name": "West Virginia",
+      "type": "state",
+      "capital": "Charleston",
+      "governor": "Patrick Morrisey",
+      "senators": [
+        {"name": "Shelley Moore Capito", "party": "R"},
+        {"name": "James C. Justice", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Carol D. Miller", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Riley M. Moore", "party": "R"}
+      ]
+    },
+    {
+      "code": "WI",
+      "name": "Wisconsin",
+      "type": "state",
+      "capital": "Madison",
+      "governor": "Tony Evers",
+      "senators": [
+        {"name": "Tammy Baldwin", "party": "D"},
+        {"name": "Ron Johnson", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 1, "label": "1st", "name": "Bryan Steil", "party": "R"},
+        {"district": 2, "label": "2nd", "name": "Mark Pocan", "party": "D"},
+        {"district": 3, "label": "3rd", "name": "Derrick Van Orden", "party": "R"},
+        {"district": 4, "label": "4th", "name": "Gwen Moore", "party": "D"},
+        {"district": 5, "label": "5th", "name": "Scott Fitzgerald", "party": "R"},
+        {"district": 6, "label": "6th", "name": "Glenn Grothman", "party": "R"},
+        {"district": 7, "label": "7th", "name": "Thomas P. Tiffany", "party": "R"},
+        {"district": 8, "label": "8th", "name": "Tony Wied", "party": "R"}
+      ]
+    },
+    {
+      "code": "WY",
+      "name": "Wyoming",
+      "type": "state",
+      "capital": "Cheyenne",
+      "governor": "Mark Gordon",
+      "senators": [
+        {"name": "John Barrasso", "party": "R"},
+        {"name": "Cynthia M. Lummis", "party": "R"}
+      ],
+      "representatives": [
+        {"district": 0, "label": "At Large", "name": "Harriet M. Hageman", "party": "R"}
+      ]
+    },
+    {
+      "code": "DC",
+      "name": "District of Columbia",
+      "type": "district",
+      "capital": null,
+      "governor": null,
+      "senators": [],
+      "representatives": [
+        {"district": 0, "label": "Delegate", "name": "Eleanor Holmes Norton", "party": "D", "nonVoting": true}
+      ]
+    },
+    {
+      "code": "PR",
+      "name": "Puerto Rico",
+      "type": "territory",
+      "capital": "San Juan",
+      "governor": "Jenniffer González-Colón",
+      "senators": [],
+      "representatives": [
+        {
+          "district": 0,
+          "label": "Resident Commissioner",
+          "name": "Pablo José Hernández",
+          "party": "D",
+          "nonVoting": true
+        }
+      ]
+    },
+    {
+      "code": "GU",
+      "name": "Guam",
+      "type": "territory",
+      "capital": "Hagåtña",
+      "governor": "Lou Leon Guerrero",
+      "senators": [],
+      "representatives": [
+        {"district": 0, "label": "Delegate", "name": "James C. Moylan", "party": "R", "nonVoting": true}
+      ]
+    },
+    {
+      "code": "VI",
+      "name": "U.S. Virgin Islands",
+      "type": "territory",
+      "capital": "Charlotte Amalie",
+      "governor": "Albert Bryan Jr.",
+      "senators": [],
+      "representatives": [
+        {"district": 0, "label": "Delegate", "name": "Stacey E. Plaskett", "party": "D", "nonVoting": true}
+      ]
+    },
+    {
+      "code": "AS",
+      "name": "American Samoa",
+      "type": "territory",
+      "capital": "Pago Pago",
+      "governor": "Pula Nikolao Pula",
+      "senators": [],
+      "representatives": [
+        {
+          "district": 0,
+          "label": "Delegate",
+          "name": "Aumua Amata Coleman Radewagen",
+          "party": "R",
+          "nonVoting": true
+        }
+      ]
+    },
+    {
+      "code": "MP",
+      "name": "Northern Mariana Islands",
+      "type": "territory",
+      "capital": "Saipan",
+      "governor": "David M. Apatang",
+      "senators": [],
+      "representatives": [
+        {"district": 0, "label": "Delegate", "name": "Kimberlyn King-Hinds", "party": "R", "nonVoting": true}
+      ]
+    }
+  ]
+}
